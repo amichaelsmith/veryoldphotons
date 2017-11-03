@@ -4,6 +4,7 @@ var extentsMode;
 var galleryManifest;
 var prevObject;
 var nextObject;
+var initialImage = '';
 
 // Image details json loaded.
 xhr.onload = function(){
@@ -17,7 +18,7 @@ xhr.onload = function(){
     sizeFrame();
     // Load the proper image
     var $img = $('#image');
-    $img.attr('src', imageInfo["extents"]);
+    $img.attr('src', imageInfo[initialImage]);
   }
 }
 
@@ -166,6 +167,18 @@ function loadObject(objectName) {
     prevObject = galleryManifest[objectName][0];
     nextObject = galleryManifest[objectName][1];
   }
+
+  // objectName may contain &-delimited parameters
+  initialImage = 'extents';
+  var strParams = objectName;
+  objectParams = strParams.split('&');
+  if (objectParams.length > 1) {
+    var objectName = objectParams[0];
+    if (strParams.length > 1) {
+      initialImage = objectParams[1];
+    }
+  }
+
   imageInfo.name = objectName;
   var baseObjPath = 'gallery/objects/' + objectName + '/' + objectName;
   imageInfo.extents = baseObjPath + '-2000.jpg'

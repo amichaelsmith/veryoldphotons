@@ -1,5 +1,5 @@
 var xhr = new XMLHttpRequest();
-var category;
+var category = '';
 var galleryManifest = {};
 
 // Array shuffler, useful to randomize the "All" gallery.
@@ -28,7 +28,7 @@ xhr.onload = function() {
 
     // Setup gallery title
     // Convert dashes to spaces, if present
-    gallery = category.replace('-', ' ');
+    var gallery = category.replace('-', ' ');
     $grid.before('<h1>' + gallery + '</h1>');
 
     $grid.prepend('<tr>');
