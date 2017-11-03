@@ -1,0 +1,20 @@
+{
+  "name": "Venus Occultation",
+  "alias": "April 22, 2009",
+  "ra": "23h 53m",
+  "dec": "+02° 41'",
+  "positionangle": "0.0",
+  "distance": "384,000 km (moon)",
+  "constellation": "Pisces",
+  "season": "Spring",
+  "date": "April 22, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "0.5 sec",
+  "pixelscale": "1.07",
+  "location": "Estes Park, Colorado",
+  "info": "",
+  "description": "The major planets of our solar system all follow orbits that lie more or less in a single plane, called the ecliptic. The orbit of our moon lies in a similar plane, tilted about 5° from the ecliptic. As a consequence of this geometry, the Moon occasionally passes in front of the more distant planets in a event called an occultation. This image captures the instant before the moon passes in front of Venus. Note that both the Moon and Venus present a similar crescent 'phase', because their orientation with respect to the sun and our line of sight is nearly identical. Only Venus and Mercury, following orbits interior to ours, can display such crescent phases to viewers here on Earth."
+}

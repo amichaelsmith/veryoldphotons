@@ -1,0 +1,21 @@
+{
+  "name": "Total Solar Eclipse - August 21, 2017",
+  "alias": "",
+  "aspect": 2.0,
+  "ra": "10h 03m",
+  "dec": "+11° 59'",
+  "positionangle": "0.0",
+  "distance": "93,000,000 miles",
+  "constellation": "Leo",
+  "season": "Summer",
+  "date": "August 21, 2017",
+  "seeing": "3.0″ (average)",
+  "instrument": "Pentax SDHF 75mm",
+  "camera": "Canon 40D",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "1/500 sec - 1/2 sec",
+  "pixelscale": "",
+  "location": "Alliance, Nebraska",
+  "info": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017",
+  "description": "The total solar eclipse of 2017 was surely the most anticipated astronomical event of my lifetime. We were fortunate to live only 250 miles outside the path of totality, so it was an easy drive. We chose Alliance, Nebraska as our site - striking a balance between smaller crowds and reasonable weather prospects. In the end, our choice worked out well.  This image is a composite spanning the entire duration of the eclipse. The time elapsed between individual images is 10 minutes. Each solar image is positioned in uniform altitude-azimuth coordinates, which gives a hint of the time of day - the arc of the sun crests at local solar noon."
+}

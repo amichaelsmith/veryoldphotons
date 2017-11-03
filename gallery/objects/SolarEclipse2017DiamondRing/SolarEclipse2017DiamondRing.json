@@ -1,0 +1,21 @@
+{
+  "name": "Total Solar Eclipse - August 21, 2017",
+  "alias": "",
+  "aspect": 1.5,
+  "ra": "10h 03m",
+  "dec": "+11° 59'",
+  "positionangle": "0.0",
+  "distance": "93,000,000 miles",
+  "constellation": "Leo",
+  "season": "Summer",
+  "date": "August 21, 2017",
+  "seeing": "3.0″ (average)",
+  "instrument": "Pentax SDHF 75mm",
+  "camera": "Canon 40D",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "1/500 sec - 1/2 sec",
+  "pixelscale": "",
+  "location": "Alliance, Nebraska",
+  "info": "https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017",
+  "description": "This image reveals the solar disk at the instant it emerged from behind the disk of the moon. The effect is known as the 'Diamond Ring', for obvious reasons. The prominences along the limb of the sun are still visible in this instant, though they will be overwhelmed by the brillance of the solar disk in just a few seconds. These prominences are loops or flares of plasma, anchored to the sun's surface, extending thousands of miles out into space. Like the corona, they are only visible to earthbound observers during a total eclipse."
+}

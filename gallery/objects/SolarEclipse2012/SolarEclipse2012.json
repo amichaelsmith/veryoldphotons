@@ -1,0 +1,21 @@
+{
+  "name": "Solar Eclipse",
+  "alias": "May 20, 2012",
+  "aspect": 1.5,
+  "ra": "03h 52",
+  "dec": "+20° 11'",
+  "positionangle": "0.0",
+  "distance": "405,848 km",
+  "constellation": "Taurus",
+  "season": "Spring",
+  "date": "May 20, 2012",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "1/6 sec ISO 100",
+  "pixelscale": "2.34",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Solar_eclipse_of_May_20,_2012",
+  "description": "The eclipse of 2012 was an annular eclipse - identical to a total eclipse except for the one critical detail that the moon is too distant to completely obscure the visible disk of the sun. This variation in lunar distance occurs because the lunar orbit is elliptical, its distance varying by about 10%. This is also the cause of the occasional so-called 'Supermoon'. Unfortunately, our weather for this event was poor - much of the eclipse was missed due to clouds. Just as the sun was setting, the clouds thinned just enough to offer a glimpse. On these occasions when the weather doesn't cooperate, I find it more satisfying to go for 'artistic impact' rather than technical excellence. At least, that's my story..."
+}

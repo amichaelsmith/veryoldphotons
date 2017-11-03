@@ -1,0 +1,21 @@
+{
+  "name": "Sh2-136",
+  "alias": "Ghost Nebula",
+  "ra": "21h 16m 26s",
+  "dec": "+68° 15′ 37″",
+  "positionangle": "0.0",
+  "distance": "1470 light years",
+  "constellation": "Cepheus",
+  "season": "Autumn",
+  "date": "November 7, 2015",
+  "seeing": "3.25″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 375,120,120,110",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Ghost_Nebula",
+  "description": "Happy Halloween! Yes - this is real, and even more extraordinary is that it is seasonal, appearing nearly directly overhead mid-evening in late October in mid-northern latitudes. These strange nebular formations are Bok globules. They are dense molecular clouds, usually the sight of new star formation. As humans with over-active imaginations, it is hard not to  see a whole menagerie of ghostly apparitions here. Particularly compelling are the two demons with outstretched arms on the left wing of the main nebula. Be sure to use the zoom tool to get a closer look.",
+  "closeup": "Sh2-136-zoom.jpg"
+}

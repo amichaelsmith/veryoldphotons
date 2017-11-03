@@ -1,0 +1,21 @@
+{
+  "name": "Transit of Venus",
+  "alias": "June 4, 2012",
+  "aspect": 1.5,
+  "ra": "",
+  "dec": "",
+  "positionangle": "0.0",
+  "distance": "",
+  "constellation": "",
+  "season": "Summer",
+  "date": "June 4, 2012",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Canon 40D",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "1/200 sec",
+  "pixelscale": "1.19",
+  "location": "Shrine Pass, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Transit_of_Venus,_2012",
+  "description": ""
+}

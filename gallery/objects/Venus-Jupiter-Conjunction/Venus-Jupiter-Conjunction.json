@@ -1,0 +1,21 @@
+{
+  "name": "Venus-Jupiter Conjunction",
+  "alias": "",
+  "aspect": 1.5,
+  "ra": "",
+  "dec": "",
+  "positionangle": "0.0",
+  "distance": "",
+  "constellation": "",
+  "season": "Summer",
+  "date": "August 18, 2014",
+  "seeing": "3.0″ (average)",
+  "instrument": "Canon 28-135mm zoom",
+  "camera": "Canon 40D",
+  "mount": "Manfrotto Tripod",
+  "exposure": "0.5 sec",
+  "pixelscale": "?",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Conjunction_(astronomy)",
+  "description": "A conjunction occurs whenever two astronomical objects (usually planets) have either the same right ascension or same ecliptic longitude. In plainer language, they appear close together. When the objects are the two brightest planets as viewed from Earth, the result is dramatic. In this image, we see Venus (the brighter) and Jupiter only about 0.5° apart in the morning twilight sky. The smooth dark curve at the bottom of the image is the observatory dome that houses the telescopes used to take most of the images on this site."
+}

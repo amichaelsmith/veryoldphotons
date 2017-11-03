@@ -1,0 +1,21 @@
+{
+  "name": "Solar Eclipse",
+  "alias": "October 23, 2014",
+  "aspect": 1.5,
+  "ra": "13h 51m 44s",
+  "dec": "-11° 16' 11″",
+  "positionangle": "0.0",
+  "distance": "391,542 km",
+  "constellation": "Virgo",
+  "season": "Autumn",
+  "date": "October 23, 2014",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "Canon 40D",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "1/400 sec",
+  "pixelscale": "1.19",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Solar_eclipse_of_October_23,_2014",
+  "description": "The partial solar eclipse of 2014 served as an appetizer for the upcoming total eclipse of 2017. The spectacle was much enhanced by the presence of unusually large sunspots near the center of the solar disk. Sunspots are regions of lower surface temperature caused by strong magnetic flux emerging from the photosphere (visible surface) of the sun. Sunspots appear dark only in contrast to the surrounding solar surface - were you to see a sunspot in isolation, it would still be unbearably bright. Sunspots this large can actually be seen with the naked eye by observers with good vision and a suitable solar filter (of course!)."
+}

@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "alias": "",
+  "ra": "",
+  "dec": "",
+  "positionangle": "0.0",
+  "distance": "",
+  "constellation": "",
+  "season": "",
+  "date": "",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: ",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "",
+  "description": "",
+  "negative": "-negative.jpg",
+  "closeup": "-zoom.jpg",
+  "special": [
+    {
+      "name": "Supernova",
+      "image": "M51-SN2011dh.jpg",
+      "description": "Supernova SN2011dh"
+    }
+  ]
+}

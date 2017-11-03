@@ -1,0 +1,20 @@
+{
+  "name": "Sh2-155",
+  "alias": "Cave Nebula",
+  "ra": "22h 57m 17.14s",
+  "dec": "+62° 28′ 33.4″",
+  "positionangle": "0.0",
+  "distance": "2400 light years",
+  "constellation": "Cepheus",
+  "season": "Autumn",
+  "date": "September 30, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 180,75,60,70",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Sh2-155",
+  "description": "The Cave Nebula is a bright portion of the Cepheus B Cloud, itself a part of the gigantic Cepheus Molecular Cloud. Cepheus, like most constellations that happen to lie along the plane of the Milky Way, contains extensive bright and dark nebulosity. These nebulae comprise the raw material that fuels the creation of new generations of stars. As stars reach the end-of-life, they expel gas back into interstellar space - a kind of cosmic recycling. Interestingly, this ongoing recycling process seems only to occur in spiral and irregular galaxies, and not in ellipticals."
+}
