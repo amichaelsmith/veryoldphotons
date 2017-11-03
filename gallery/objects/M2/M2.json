@@ -1,0 +1,21 @@
+{
+  "name": "M2",
+  "alias": "",
+  "aspect": 1.3245,
+  "ra": "21h 33m 27s",
+  "dec": "–00° 49′ 24″",
+  "positionangle": "0.0",
+  "distance": "33,000 light years",
+  "constellation": "Aquarius",
+  "season": "Autumn",
+  "date": "September 3, 2010",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "SBIG ST-8300",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "LRGB: 120,70,60,70",
+  "pixelscale": "1.07",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Messier_2",
+  "description": "M2 is a globar star cluster - one of the largest known. It was the second object added by Charles Messier to his famous catalogue of 'non-comets'. Messier's discovery was in actuality a rediscovery, as the cluster had already been noted in 1746 by Jean-Dominique Maraldi. When viewed through the crude telescopes of Messier's day, this object was thought to be a 'nebula without a star'. The quality of telescopes has dramatically improved over the years such that today we can readily resolve M2 into stars with a modest amateur instrument. Keen-eyed observers are even able to just make out M2 to the naked eye as a faint fuzzy 'star'."
+}

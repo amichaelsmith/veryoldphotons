@@ -1,0 +1,20 @@
+{
+  "name": "IC 5146",
+  "alias": "Cocoon Nebula",
+  "ra": "21h 53m 28.7s",
+  "dec": "+47° 16′ 01″",
+  "positionangle": "0.0",
+  "distance": "3300 light years",
+  "constellation": "Cygnus",
+  "season": "Autumn",
+  "date": "September 22, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 165,75,75,75",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/IC_5146",
+  "description": "The Cocoon is a bright emission nebula that lies at one end of the long dark nebula Barnard 168. Strictly speaking, IC 5146 refers to the star cluster embedded in the nebula, designated Sh2-125. You will see these 'Sh2' designations occasionally used in the descriptions of nebulae - they refer to the <a href='https://en.wikipedia.org/wiki/Sharpless_catalog'>Sharpless Catalog</a> of emission nebulae, compiled and published by Stewart Sharpless in 1959. Many of the nebulae in the catalog had been recently discovered by careful study of the then newly completed photographic Palomar Sky Survey. Most of the nebulae in the catalog were so faint that they could only be revealed (and discovered) by long exposure photography."
+}

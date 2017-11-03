@@ -1,0 +1,20 @@
+{
+  "name": "IC 1318",
+  "alias": "Sadr Region",
+  "ra": "20h 22m",
+  "dec": "+40° 15′",
+  "positionangle": "0.0",
+  "distance": "1800 light years",
+  "constellation": "Cygnus",
+  "season": "Autumn",
+  "date": "September 2, 2010",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "Apogee U16M",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "HRGB: 150,30,30,40",
+  "pixelscale": "1.89",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Sadr_Region",
+  "description": "The bright star upon which this image is centered is Sadr (γ Cygni), the center of the Northern Cross of Cygnus. Almost of the entirety of the constellation Cygnus is filled with complex nebulosity. Here we see bright cloud of emission nebulae, mostly ionized hydrogen, obscured in places by dark foreground molecular clouds. These dark clouds are composed of tiny dust particles coated with frozen carbon monoxide and nitrogen, as well as ammonia, formaldehyde, and other simple organic molecules. In all likelihood, the emission nebulae in this area are nearly continuous, but the dark nebulae block nearly all light directly behind them."
+}

@@ -1,0 +1,20 @@
+{
+  "name": "IC1805",
+  "alias": "Heart Nebula",
+  "ra": "02h 33m 22s",
+  "dec": "+61° 26′ 36″",
+  "positionangle": "0.0",
+  "distance": "7500 light years",
+  "constellation": "Cassiopeia",
+  "season": "Autumn",
+  "date": "November 19, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "HOSRGB: 210,210,180,50,60,55",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Heart_Nebula",
+  "description": "This narrow band image of the Heart Nebula uses the Hubble Palette to render the Hydrogen-α, Oxygen III, and Sulfur II spectral bands as a false-color RGB image. Let's break that sentence down into English. By narrow band, we mean that the image is composed of 3 channels, each of which is taken through a filter that isolates a very specific color (spectral band). Because these elements are common in interstellar nebulae, it is typical to isolate ionized hydrogen, oxygen, and sulfur. By false color, we mean that we arbitrarily use these channels to represent the red, green, and blue components of the image without regard to their natural color. Finally, by Hubble Palette, we mean the specific mapping of sulfur, hydrogen, and oxygen to RGB as made popular by the team processing images for the Hubble Space Telescope. So to a rough approximation, in this image red is sulfur, green is hydrogen, and blue is oxygen."
+}

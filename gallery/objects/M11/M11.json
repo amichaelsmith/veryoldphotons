@@ -1,0 +1,21 @@
+{
+  "name": "M11",
+  "alias": "Wild Duck Cluster",
+  "aspect": 1.324,
+  "ra": "18h 51m",
+  "dec": "−06° 16′",
+  "positionangle": "0.0",
+  "distance": "6200 light years",
+  "constellation": "Scutum",
+  "season": "Summer",
+  "date": "July 13, 2013",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "SBIG ST-8300",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "LRGB: 95,35,30,30",
+  "pixelscale": "1.07",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Wild_Duck_Cluster",
+  "description": "M11 is another early (1681) discovery of the German astronomer Gottfried Kirch. M11 is an open cluster, but an unusually rich and compact one, consisting of more than 2900 stars. It is positioned in front of the rich background of stars of the Milky Way. The cluster is said to resemble a flying flock of ducks, hence its nickname. Though I have viewed M11 many times through the eyepiece, matching the view with the moniker requires more imagination than I can muster!"
+}

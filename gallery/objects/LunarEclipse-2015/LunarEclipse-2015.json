@@ -1,0 +1,21 @@
+{
+  "name": "Lunar Eclipse",
+  "alias": "April 4, 2015",
+  "aspect": 1.5,
+  "ra": "12h 50m",
+  "dec": "-05° 48'",
+  "positionangle": "0.0",
+  "distance": "402,836 km",
+  "constellation": "Virgo",
+  "season": "Spring",
+  "date": "April 4, 2015",
+  "seeing": "3.0″ (average)",
+  "instrument": "Pentax SDHF 75mm",
+  "camera": "Canon 40D",
+  "mount": "Astro-Tech Voyager",
+  "exposure": "2.5 sec, ISO 400",
+  "pixelscale": "2.35",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/April_2015_lunar_eclipse",
+  "description": "The lunar eclipse of 2015 was the last of multiple overlapping cycles of eclipses starting in 2010. During this period, western North America was treated to no less than 5 lunar eclipses. Currently, we are suffering an eclipse drought, the next favorable one to occur in 2019. This image captures the view from my front yard at moonset, just prior to totality. Notice that the moon is slightly blurred in this image compared to the foreground trees - a result of the apparent motion of the moon (in reality due to rotation of the earth), noticeable even during this relatively brief exposure."
+}

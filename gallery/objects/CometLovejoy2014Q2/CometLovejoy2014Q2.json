@@ -1,0 +1,20 @@
+{
+  "name": "Comet Lovejoy 2014Q2",
+  "alias": "",
+  "ra": "",
+  "dec": "",
+  "positionangle": "0.0",
+  "distance": "",
+  "constellation": "",
+  "season": "Winter",
+  "date": "January 15, 2015",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "RGB: 40,40,40",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/C/2014_Q2_(Lovejoy)",
+  "description": "Only a year after discovering comet 2013R1, Terry Lovejoy discovered his fifth comet, 2014Q2. The comet diplays a typically bright central coma and a complex tail of multiple strands. The greenish glow is caused by water and organic molecules fluorescing from the ultraviolet radiation of the sun. 2014Q2 is a periodic comet (meaning that it orbits the sun), but we will have to wait about 11,000 years for its return."
+}

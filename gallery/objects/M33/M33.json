@@ -1,0 +1,22 @@
+{
+  "name": "M33",
+  "alias": "Pinwheel Galaxy",
+  "ra": "01h 33m 51s",
+  "dec": "+30° 36' 54″",
+  "positionangle": "0.0",
+  "distance": "2,500,000 light years",
+  "constellation": "Triangulum",
+  "season": "Autumn",
+  "date": "January 10, 2010",
+  "seeing": "5.46″ (average)",
+  "pixelscale": "1.89",
+  "instrument": "TEC 140",
+  "camera": "Apogee U16M",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "LRGB: 160,40,40,50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Triangulum_Galaxy",
+  "description": "M33 is the third major galaxy in the Local Group, together with M31 and our own Milky Way. Just visible to the naked eye under a dark sky, M33 is large and diffuse, best seen through binoculars. Note the profusion of nebulae - clouds of hydrogen gas that appear as pink blobs scattered through the spiral arms. Also visible are knots of blue - clusters of young, bright stars. Together, these patches of red and blue reveal a vibrant cosmic community that continues to renew itself.",
+  "negative": "M33-negative.jpg",
+  "closeup": "M33-zoom.jpg"
+}

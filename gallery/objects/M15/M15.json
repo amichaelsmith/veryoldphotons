@@ -1,0 +1,21 @@
+{
+  "name": "M15",
+  "alias": "",
+  "aspect": 1.3245,
+  "ra": "21h 29m 58s",
+  "dec": "+12° 10′ 01″",
+  "positionangle": "0.0",
+  "distance": "33,000 light years",
+  "constellation": "Pegasus",
+  "season": "Autumn",
+  "date": "September 30, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "SBIG ST-8300",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "LRGB: 115,45,40,40",
+  "pixelscale": "1.07",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Messier_15",
+  "description": "M15, like many bright globular clusters visible from the northern hemisphere, was discovered in the 18th century. M15 sports an unusually concentrated central core. This is no optical illusion - the core has undergone a process called 'core collapse', in which the stars near center have been drawn inwards, probably by an enormous central black hole. M15 is also notable for containing the planetary nebula Pease 1. Only three such examples of planetary nebulae within a globular cluster have been discovered to date."
+}

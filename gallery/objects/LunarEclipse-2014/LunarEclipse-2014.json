@@ -1,0 +1,20 @@
+{
+  "name": "Lunar Eclipse",
+  "alias": "April 15, 2014",
+  "ra": "13h 31m 55.0s",
+  "dec": "-10° 42' 02″",
+  "positionangle": "0.0",
+  "distance": "385,000 km",
+  "constellation": "Virgo",
+  "season": "Spring",
+  "date": "April 15, 2014",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "RGB: 10,10,10",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/April_2014_lunar_eclipse",
+  "description": "Lunar eclipses occur when the shadow of the Earth falls upon the moon. The geometry governing these events is similar to that of a solar eclipse, except that the Earth lies between sun and moon. Lunar eclipses offer two advantages over solar eclipses: they occur more frequently, and they are visible from the entire nighttime side of the Earth. This particular eclipse was unusual in that it occurred with the moon very near to the 1st magnitude star Spica, the brightest star in the constellation Virgo."
+}

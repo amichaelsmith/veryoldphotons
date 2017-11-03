@@ -1,0 +1,20 @@
+{
+  "name": "IC 1318",
+  "alias": "Sadr Region",
+  "ra": "20h 22m",
+  "dec": "+40° 15′",
+  "positionangle": "0.0",
+  "distance": "1800 light years",
+  "constellation": "Cygnus",
+  "season": "Autumn",
+  "date": "November 7, 2013",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "HRGB: 180,75,80,60",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Sadr_Region",
+  "description": "This image presents a wide-field (nearly 4° on a side) view of the region around <a href='object.html?IC1318'>Sadr</a> (γ Cygni). The bright and dark nebulae in the immediate vicinity of Sadr extend to the edge of the frame and far beyond. Several open star clusters decorate the field - most notably, M29 just to left of the bottom center. At bottom right is the <a href='object.html?N6888'>Crescent Nebula,</a> NGC 6888."
+}

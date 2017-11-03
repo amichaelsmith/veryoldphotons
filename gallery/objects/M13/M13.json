@@ -1,0 +1,20 @@
+{
+  "name": "M13",
+  "alias": "Great Hercules Cluster",
+  "ra": "16h 41m 41s",
+  "dec": "+36° 27′ 36″",
+  "positionangle": "0.0",
+  "distance": "22,200 light years",
+  "constellation": "Hercules",
+  "season": "Summer",
+  "date": "June 8, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 120,70,40,75",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Messier_13",
+  "description": "The Great Hercules Cluster is surely one of the most spectacular objects accessible to observers with modest telescopes. It is large - nearly the size of the full moon - and easily resolved into thousands of individual stars. Discovered by Edmond Halley (of comet fame) in 1714, is it just visible to the naked eye on a good night, and easy to find between the two right-most stars of the keystone of Hercules. Use the 'Show Entire Image' tool to reveal NGC 6907, a distant spiral galaxy at the upper left of the image. For extra credit, find the much more distant galaxy IC 4617, about half way between M13 and NGC 6907."
+}

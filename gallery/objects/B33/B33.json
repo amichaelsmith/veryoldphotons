@@ -1,0 +1,22 @@
+{
+  "name": "Barnard 33",
+  "alias": "Horsehead Nebula",
+  "ra": "05h 40m 59.0s",
+  "dec": "−02° 27′ 30.0",
+  "positionangle": "0.0",
+  "distance": "1500 light years",
+  "constellation": "Orion",
+  "season": "Winter",
+  "date": "February 16, 2010",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 150,60,60,60",
+  "pixelscale": "1.89",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Horsehead_Nebula",
+  "description": "The Horsehead Nebula is the iconic example of a dark nebula - usually the result of a dense molecular cloud in the foreground, seen against a more distant backdrop of stars or emission nebulae. In this case, the backdrop is a broad expanse of ionized hydrogen glowing its distinctive red color. The orange Flame Nebula (NGC 2024) dominates the upper center part of the image, illuminated from the right by the bright blue star Alnitak - the leftmost star in Orion's Belt. Elsewhere, the image is punctuated by blue reflection nebulae also illuminated by the bright young stars of Orion.",
+  "negative": "B33-negative.jpg",
+  "closeup": "B33-zoom.jpg"
+}

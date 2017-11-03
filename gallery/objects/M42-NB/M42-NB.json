@@ -1,0 +1,42 @@
+{
+  "name": "M42/M43",
+  "alias": "Orion Nebula",
+  "ra": "05h 35m 17.3s",
+  "dec": "−05° 23′ 28″",
+  "positionangle": "0.0",
+  "distance": "1344 light years",
+  "constellation": "Orion",
+  "season": "Winter",
+  "date": "January 19, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGBHOS: 140,40,40,40,105,180,240",
+  "pixelscale": "1.89",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Orion_Nebula",
+  "description": "The famous Orion Nebula is one of the brightest nebulae in the sky, readily visible to the naked eye as a 'fuzzy star' in Orion's sword. It is spectacular in convention <a href='object.html?M42'>full spectrum</a> images, but is so bright that it also reveals interesting structure in multiple isolated wavelengths. This image presents different combinations of of light emitted by hydrogen, oxygen, and sulfur. Use the 'specials' tool to see each combination, as well as each channel in isolation.",
+  "special": [
+    {
+      "name": "Hubble",
+      "image": "M42-NRGB-Hubble.jpg",
+      "description": "Narrow Band Rendered in Hubble Palette"
+    },
+    {
+      "name": "Hydrogen",
+      "image": "M42-Ha.jpg",
+      "description": "Hydrogen-alpha (656nm) isolated (Negative)"
+    },  
+    {
+      "name": "Oxygen",
+      "image": "M42-O3.jpg",
+      "description": "Oxygen III (501nm) isolated (Negative)"
+    },  	
+    {
+      "name": "Sulfur",
+      "image": "M42-S2.jpg",
+      "description": "Sulfur II (672nm) isolated (Negative)"
+    }
+	]
+}

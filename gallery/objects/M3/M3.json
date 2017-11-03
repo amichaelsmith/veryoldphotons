@@ -1,0 +1,21 @@
+{
+  "name": "M3",
+  "alias": "",
+  "aspect": 1.324,
+  "ra": "13h 42m 12s",
+  "dec": "+28° 22′ 38″",
+  "positionangle": "0.0",
+  "distance": "33,900 light years",
+  "constellation": "Canes Venatici",
+  "season": "Spring",
+  "date": "June 3, 2014",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "SBIG ST-8300",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "LRGB: 180,70,60,60",
+  "pixelscale": "1.07",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Messier_3",
+  "description": "M3 is one of the most spectacular globular clusters visible to northern hemisphere observers. It is unusually large, consisting of about 500,000 stars. However, M3 is most notable for the fact that it contains 274 variable stars, the largest count for any globular cluster. Variable stars show periodic variation in total light output, and are an important tool in understanding both the physics of stars and in determining the distances to celestial objects. 133 of M3's variable are RR Lyrae stars, which have the useful characteristics that their period of variability is directly correlated with their absolute brightness. Measure the period and the relative brightness (easy to do), compare to the expected absolute brightness, and the distance follows directly."
+}

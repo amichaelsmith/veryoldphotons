@@ -1,0 +1,20 @@
+{
+  "name": "Lunar Eclipse",
+  "alias": "December 21, 2010",
+  "ra": "05h 55m",
+  "dec": "+23° 27'",
+  "positionangle": "0.0",
+  "distance": "376,520 km",
+  "constellation": "Taurus",
+  "season": "Winter",
+  "date": "December 21, 2010",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "10 sec",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/December_2010_lunar_eclipse",
+  "description": "The color of the moon during a lunar eclipse can vary from bright orange to a dark brick red or even brown color. To understand why this is so, consider several factors. Firstly, when the moon passes through the umbra (central part) of the Earth's shadow, the disk of the Earth completely blocks the sun. The only light illuminating the moon is the sunlight that passes through the Earth's atmosphere at the edge of the disk. Stated more poetically, the moon is illuminated by all the sunrises and sunsets on Earth simultaneously. Secondly, the umbra is about three times the diameter of the moon. The overall darkness of the eclipse is influenced by how close the moon passes to the center of the umbra. Finally, the overall transparency of the Earth's atmosphere influences how much of that sunrise/sunset light gets through. For example, when a lunar eclipse follows a major volcanic eruption, the eclipse can be unusually dark. During this eclipse, the moon did not pass through the very center of the umbra, and the atmosphere was not unusually dusky - hence, a relatively lighter shade of orange."
+}

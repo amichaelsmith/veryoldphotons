@@ -1,0 +1,20 @@
+{
+  "name": "Abell 21",
+  "alias": "Medusa Nebula",
+  "ra": "07h 29m",
+  "dec": "+13° 14′",
+  "positionangle": "0.0",
+  "distance": "1500 light years",
+  "constellation": "Gemini",
+  "season": "Winter",
+  "date": "April 1, 2016",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "HORGB: 180,225,60,60,60",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Medusa_Nebula",
+  "description": "The Medusa Nebula is so-named because its filaments of green oxygen and red hydrogen gas are said to resemble Medusa's serpentine hair from mythology. Abell 21 was once thought to be a supernova remnant, but a careful study in 1971 demonstrated that it is actually a planetary nebula. This nebula is an extremely difficult object to observe visually, but with the use of narrow-band filters and long exposure times, its presence is revealed with photography."
+}

@@ -1,0 +1,20 @@
+{
+  "name": "IC 443",
+  "alias": "Jellyfish Nebula",
+  "ra": "06h 17m 13s",
+  "dec": "+22° 31′ 05′′",
+  "positionangle": "0.0",
+  "distance": "5000 light years",
+  "constellation": "Gemini",
+  "season": "Winter",
+  "date": "April 2, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSG-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "HRGB: 225,80,60,60",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/IC_443",
+  "description": "IC 443 is a supernova remnant (SNR) of uncertain age. Like most SNR, most of the concentrated nebulosity is not material ejected from the exploding star, but rather rarefied gas from the interstellar medium that has been swept up and compressed by the expanding blast wave. The two bright stars on either side of IC 443 are µ and η Geminorum - both easily visible to the naked eye. This extended field also the nebula IC 444 (middle left) and the bright open star cluster M35 (upper right)."
+}

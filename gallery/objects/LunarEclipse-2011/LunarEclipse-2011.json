@@ -1,0 +1,21 @@
+{
+  "name": "Lunar Eclipse",
+  "alias": "December 10, 2011",
+  "aspect": 1.5,
+  "ra": "05h 05m 13.3s",
+  "dec": "+21° 52' 37″",
+  "positionangle": "0.0",
+  "distance": "397,000 km",
+  "constellation": "Taurus",
+  "season": "Winter",
+  "date": "December 10, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Pentax SDHF 75mm",
+  "camera": "Canon 40D",
+  "mount": "Astro-Tech Voyager",
+  "exposure": "2 sec",
+  "pixelscale": "2.35",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/December_2011_lunar_eclipse",
+  "description": "During this lunar eclipse, totality was visible primarily from Asia. In North America, the moon set about 20 minutes prior to the start of totality. Since the full moon is always directly opposite the sun, a setting eclipsed moon should occur at sunrise, and that is just the situation here. The moon and mountains are colored orange by the very same effect - Rayleigh and Mie scattering in the Earth's atmosphere scatters blue light, and passes red light."
+}

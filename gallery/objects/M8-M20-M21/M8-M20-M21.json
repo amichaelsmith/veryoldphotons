@@ -1,0 +1,33 @@
+{
+  "name": "M8/M20/M21",
+  "alias": "Lagoon & Trifid Nebulae",
+  "ra": "18h 03m 37s",
+  "dec": "−24° 23′ 12″",
+  "positionangle": "0.0",
+  "distance": "4100 light years",
+  "constellation": "Sagittarius",
+  "season": "Summer",
+  "date": "July 24, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "Telescope Engineering Company TEC 140",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 200,40,40,40",
+  "pixelscale": "1.89",
+  "location": "Estes Park, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Lagoon_Nebula",
+  "description": "The summer Milky Way offers an embarrassment of riches, well illustrated by this image which captures no less than three Messier objects in a single frame. In the lower left, the Lagoon Nebula (M8) is a sprawling cloud of hydrogen, giving birth to a new generation of stars. At center right, the Trifid Nebula (M20) is a hybrid emission (red) and reflection (blue) nebula. Finally, directly above M20 is the sparse but bright open star cluster M21.",
+  "negative": "M8-M20-M21-negative.jpg",
+  "special": [
+    {
+      "name": "M8Closeup",
+      "image": "M8-M20-M21-zoom.jpg",
+      "description": "M8 (Lagoon Nebula) Closeup"
+    },
+    {
+      "name": "M20M21Closeup",
+      "image": "M8-M20-M21-zoom-M20-M21.jpg",
+      "description": "M20 (Trifid Nebula) & M21 Closeup"
+    }
+	]
+}
