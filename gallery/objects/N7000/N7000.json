@@ -1,0 +1,20 @@
+{
+  "name": "NGC 7000",
+  "alias": "North America Nebula",
+  "ra": "20h 59m 17.1s[",
+  "dec": "+44° 31′ 44″",
+  "positionangle": "0.0",
+  "distance": "1600 light years",
+  "constellation": "Cygnus",
+  "season": "Autumn",
+  "date": "September 13, 2010",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "HRGB: 210,60,60,60",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/North_America_Nebula",
+  "description": "The aptly named North America Nebula is a very large emission nebula just to the east of Deneb, the brightest star in Cygnus. In fact, the nebula may be ionized by Deneb, which is the basis for its distance estimate of 1600 light years. Mexico, Florida, and the Gulf of Mexico all stand out clearly around the center of the frame. Numerous star clusters are embedded in, or lie in front of the nebula. This field also contains the Pelican Nebula (IC 5070), visible here as the patch directly right of the Gulf. Look for the distinctive arch of its back and well-developed pelican beak, all just below a prominent blue star."
+}

@@ -1,0 +1,22 @@
+{
+  "name": "NGC 3718",
+  "alias": "",
+  "ra": "11h 32m 34.9s",
+  "dec": "+53° 04′ 04″",
+  "positionangle": "0.0",
+  "distance": "52,000,000 light years",
+  "constellation": "Ursa Major",
+  "season": "Spring",
+  "date": "March 22, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 200,60,65,65",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/NGC_3718",
+  "description": "NGC 3718 is an unusual galaxy of uncertain form - it may be a spiral, or it may be a lenticular, intermediate between spiral and elliptical. The unusual 'S-shape' is probably due to a recent close pass with NGC 3729 - the smaller galaxy above center. When galaxies pass close by one another, the combined gravity of their stars exerts uneven forces upon the stars of the other galaxy, often warping them into unique shapes that defy easy classification. Notice also the much more distant galaxies just below center. This is a common theme in these images of galaxies - no matter how deeply you look, there always seem to be more galaxies.",
+  "negative": "N3718-negative.jpg",
+  "closeup": "N3718-zoom.jpg"
+}

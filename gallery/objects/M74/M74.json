@@ -1,0 +1,22 @@
+{
+  "name": "M74",
+  "alias": "",
+  "ra": "01h 36m 41.8s",
+  "dec": "+15° 47′ 01″",
+  "positionangle": "0.0",
+  "distance": "30,000,000 light years",
+  "constellation": "Pisces",
+  "season": "Autumn",
+  "date": "September 22, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 250,75,60,60",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Messier_74",
+  "description": "Long-exposure images of M74 reveal an open spiral face and brilliant color, but belie the difficulty of direct visual observation. M74 is widely considered the most difficult object in the Messier catalog, owing to its low surface brightness. A popular sport amongst amateur astronomers is the so-called 'Messier Marathon' - an attempt to observe all 109 Messier objects in a single night. Nail M74 in the early evening March sky or you have a fighting chance of success...",
+  "negative": "M74-negative.jpg",
+  "closeup": "M74-zoom.jpg"
+}

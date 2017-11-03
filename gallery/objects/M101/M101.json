@@ -1,0 +1,29 @@
+{
+  "name": "M101",
+  "alias": "Pinwheel Galaxy",
+  "ra": "14h 03m 12.6s",
+  "dec": "+54° 20′ 57″",
+  "positionangle": "0.0",
+  "distance": "20,900,000 light years",
+  "constellation": "Ursa Major",
+  "season": "Spring",
+  "date": "February 17, 2010",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 270,60,55,65",
+  "pixelscale": "1.89",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Pinwheel_Galaxy",
+  "description": "The Pinwheel galaxy appears nearly face-on from our vantage point on Earth, its gigantic spiral form fully revealed. M101 is a notably large spiral, with an overall diameter of 170,000 light years. Its spiral arms are decorated with an unusually high concentration of nebulae, known as HII regions. These nebulae are the drivers of the life cycle of stars, constantly giving birth to new generations to replenish the population of the galaxy. In August of 2011, a Type Ia supernova appeared in M101, briefly shining with a light equivalent to 2.5 billion Suns. Tap the star icon in the toolbar for an image of this transient superstar.",
+  "negative": "M101-negative.jpg",
+  "closeup": "M101-zoom.jpg",
+  "special": [
+    {
+      "name": "Supernova",
+      "image": "M101-SN2011fe-2000.jpg",
+      "description": "Supernova SN2011fe"
+    }
+  ]
+}

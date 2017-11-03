@@ -1,0 +1,20 @@
+{
+  "name": "NGC 7789",
+  "alias": "",
+  "ra": "23h 57m 24s",
+  "dec": "+56° 42.5′",
+  "positionangle": "0.0",
+  "distance": "7600 light years",
+  "constellation": "Cassiopeia",
+  "season": "Autumn",
+  "date": "December 4, 2015",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "RGB: 60,60,60",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/NGC_7789",
+  "description": "NGC 7789 is an open cluster discovered by Caroline Herschel in 1783. Caroline was the sister of the famous astronomer William Herschel, whose groundbreaking catalog of deep-sky objects formed the foundation for the New General Catalog (NGC) compiled in 1888. The cluster is also known as 'Carolines Rose', since the alternating lines of stars and dark lanes suggest a rose seen from above. This cluster has always been a visual favorite for me in medium-to-large telescopes, as it appears unusually compact."
+}

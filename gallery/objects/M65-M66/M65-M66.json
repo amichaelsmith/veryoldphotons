@@ -1,0 +1,22 @@
+{
+  "name": "M65/M66/NGC 3280",
+  "alias": "Leo Triplet",
+  "ra": "11h 17m",
+  "dec": "+13° 25′",
+  "positionangle": "0.0",
+  "distance": "35,000,000 light years",
+  "constellation": "Leo",
+  "season": "Spring",
+  "date": "April 21, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 210,40,40,40",
+  "pixelscale": "1.89",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Leo_Triplet",
+  "description": "Galaxies tend to be gregarious, a characteristic well illustrated by this small group situated in the hindquarters of Leo. Space is almost entirely devoid of ordinary matter, and where is does occur it tends to cluster by mutual gravitation. As these galaxies orbit their common center of gravity, they alternately approach and recede from each other but never part company entirely. Close approaches typically disrupt one or both galaxies, triggering waves of star formation and concentration of the central bulge or spiral arms. Occasionally, very close approaches may result in merger an formation of a super-galaxy.",
+  "negative": "M65-M66-negative.jpg",
+  "closeup": "M65-M66-zoom.jpg"
+}

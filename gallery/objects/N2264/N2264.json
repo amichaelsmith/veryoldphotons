@@ -1,0 +1,20 @@
+{
+  "name": "NGC 2264",
+  "alias": "Cone Nebula",
+  "ra": "06h 41m 15s",
+  "dec": "+09° 21′",
+  "positionangle": "0.0",
+  "distance": "2700 light years",
+  "constellation": "Monoceros",
+  "season": "Winter",
+  "date": "February 21, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 200,70,60,60",
+  "pixelscale": "3.5",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Cone_Nebula",
+  "description": "This busy field of the winter Milky Way offers an abundance of treasures. At the center of the field is the cone nebula, discovered by William Herschel on December 26, 1785. Appropriately, the cone sits at the top of the inverted Christmas Tree Cluster. The entire cluster and nebulosity are considered NGC 2264. To the right of the nebula is the dense open star cluster NGC 2251. Forming an equilateral triangle with NGC 2264 and 2252 (pointing down) is the tiny comet-shaped Hubble's Variable Nebula. This nebula varies in shape and brightness over short time periods, an effect thought to be caused by dense clouds of dust that periodically block its light source, the nearby star R Monocerotis."
+}

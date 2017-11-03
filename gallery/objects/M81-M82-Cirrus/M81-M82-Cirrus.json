@@ -1,0 +1,22 @@
+{
+  "name": "M81/M82",
+  "alias": "Integrated Flux Nebula",
+  "ra": "09h 55m 33.2s",
+  "dec": "+69° 3′ 55″",
+  "positionangle": "0.0",
+  "distance": "varies, within Milky Way",
+  "constellation": "Ursa Major",
+  "season": "Spring",
+  "date": "March 16, 2010",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 260,85,85,85",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Integrated_Flux_Nebula",
+  "description": "To facilitate the locating of objects within our Milky Way Galaxy, astronomers have devised a coordinate system of galactic latitudes and longitudes. High latitudes describe locations high above the disk of galaxy. M81 and M82 lie in the direction of such a high latitude, and this wide-angle view reveals a surprise when looking in their direction: the subtle presence of 'Integrated Flux' or 'Galactic Cirrus'. Recently discovered, these faint clouds of dust, hydrogen, and carbon monoxide float high above the spiral disk of our galaxy. Their pale light is the reflection of the combined light of the entire galaxy. Use the Negative image to more easily reveal these clouds.",
+  "negative": "M81-M82-Cirrus-negative.jpg",
+  "closeup": "M81-M82-Cirrus-zoom.jpg"
+}

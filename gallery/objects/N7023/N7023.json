@@ -1,0 +1,20 @@
+{
+  "name": "NGC 7023",
+  "alias": "Iris Nebula",
+  "ra": "21h 01m 35.60s",
+  "dec": "+68° 10′ 10.0",
+  "positionangle": "0.0",
+  "distance": "1300 light years",
+  "constellation": "Cepheus",
+  "season": "Autumn",
+  "date": "September 27, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 140,85,85,90",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Iris_Nebula",
+  "description": "The Iris Nebula is one of the most dramatic reflection nebulae in the heavens. Reflection nebulae are easily identified by their blue or sometimes yellowish color, but are far less common than the red emission nebulae. The blue color is caused by scattering of light from a nearby star. The bright central star appears almost to be emerging from its stellar womb, and that is very likely exactly what we are witnessing here. Stars typically form when a region of a nebula collapses to sufficient density to begin nuclear fusion. As the star burns, its radiation pushes back the remnants of its birth nebula and the star emerges for the greater universe to see."
+}

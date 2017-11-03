@@ -1,0 +1,29 @@
+{
+  "name": "NGC 7331",
+  "alias": "",
+  "ra": "22h 37m 04.1s",
+  "dec": "+34° 24′ 56″",
+  "positionangle": "0.0",
+  "distance": "40,000,000 light years",
+  "constellation": "Pegasus",
+  "season": "Autumn",
+  "date": "September 3, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 220,70,60,55",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/NGC_7331",
+  "description": "NGC 7331 is a particularly striking spiral galaxy that happens to lie along the line of sight of a more distant group of galaxies including NGC 7335, 7336, 7337, and 7340, seen just to the left. Whereas NGC 7331 is relatively nearby at about 40,000,000 light years, the other galaxies lie a distances ranging to 300,000,000 to 365,000,000 light years. Also notice another tight group of galaxies at lower right - this is the famous Stephan's Quintet. This was the first compact galaxy group discovered; four of these galaxies are gravitationally bound, and are likely to merge into a single giant galaxy in the distant future. Stephan's Quintet is also notable for having been used in the opening scene of 'Its a Wonderful Life' - each galaxy representing one of the angels discussing Clarence's qualifications to earn his wings.",
+  "negative": "N7331-negative.jpg",
+  "closeup": "N7331-zoom.jpg",
+  "special": [
+    {
+      "name": "StephansQuintet",
+      "image": "N7331-StephansQuintet.jpg",
+      "description": "Stephan's Quintet"
+    }
+  ]
+}

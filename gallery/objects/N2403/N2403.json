@@ -1,0 +1,22 @@
+{
+  "name": "NGC 2403",
+  "alias": "",
+  "ra": "07h 36m 51.4s",
+  "dec": "+65° 36′ 09″",
+  "positionangle": "0.0",
+  "distance": "8,000,000 light years",
+  "constellation": "Camelopardalis",
+  "season": "Spring",
+  "date": "March 22, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 190,60,60,60",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/NGC_2403",
+  "description": "NGC 2403 is a relatively nearby spiral galaxy of moderate size. Notice that its spiral arms are somewhat ragged, and punctuated by numerous emission nebulae that appear as irregular pink blobs. Each of these is akin to the famous Orion Nebula, though at a much larger scale. The lifecycle of stars is on full display here, with those nebulae giving birth to young blue stars that populate the outer spiral arms. These stars burn hot and die young as supernovae - while usually rare, two have been observed in this galaxy in the last 65 years. NGC 2403 was the first galaxy beyond the local group in which Cepheid variables were used to judge its distance.",
+  "negative": "N2403-negative.jpg",
+  "closeup": "N2403-zoom.jpg"
+}

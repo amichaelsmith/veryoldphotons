@@ -1,0 +1,22 @@
+{
+  "name": "M106",
+  "alias": "",
+  "ra": "12h 18m 57.5s",
+  "dec": "+47° 18′ 14″",
+  "positionangle": "0.0",
+  "distance": "23,700,000 light years",
+  "constellation": "Canes Venatici",
+  "season": "Spring",
+  "date": "May 11, 2015",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGBHa: 270,90,60,60,180",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Messier_106",
+  "description": "M106 is a large intermediate spiral galaxy, a cosmic neighbor at a distance of only(!) 24 million light years. M106 is unusually active, with gigantic streams of gas rising up and out of its spiral disk. One such stream is just visible as a faint red streak above the nucleus in this image. The galaxy is thought to harbor a supermassive black hole at its center, which may be related to the gas streams. M106 also contains a water vapor megamaser - essentially a naturally occurring laser operating in microwave rather and visible light part of the spectrum.",
+  "negative": "M106-negative.jpg",
+  "closeup": "M106-zoom.jpg"
+}

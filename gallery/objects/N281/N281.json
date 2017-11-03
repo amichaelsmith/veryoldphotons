@@ -1,0 +1,21 @@
+{
+  "name": "NGC 281",
+  "alias": "Pacman Nebula",
+  "aspect": 1.324,
+  "ra": "00h 52m 59.3s",
+  "dec": "+56° 37′ 19″",
+  "positionangle": "0.0",
+  "distance": "9500 light years",
+  "constellation": "Cassiopeia",
+  "season": "Autumn",
+  "date": "September 29, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "SBIG ST-8300",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "LRGB: 175,60,75,70",
+  "pixelscale": "1.07",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/NGC_281",
+  "description": "Discovered in 1883 by E. E. Barnard, this nebula gained its nickname in modern times when it became accessible to a new generation of amateur astronomers equipped with telescopes large enough to grasp its faint light. Of course, we will likely need a new nickname in another generation or so. The nebula is an active star-forming region, with several known Bok globules, each of which is a cocoon for a newly formed star system."
+}

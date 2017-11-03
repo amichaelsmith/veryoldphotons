@@ -1,0 +1,20 @@
+{
+  "name": "NGC 2244",
+  "alias": "Rosette Nebula",
+  "ra": "06h 33m 45s",
+  "dec": "+04° 59′ 54″",
+  "positionangle": "0.0",
+  "distance": "5200 light years",
+  "constellation": "Monoceros",
+  "season": "Winter",
+  "date": "March 4, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Celestron CGE",
+  "exposure": "HRGB: 180,60,60,60",
+  "pixelscale": "3.5",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Rosette_Nebula",
+  "description": "The Rosette Nebula is a very large HII region some 130 light years in diameter. The designation NGC 2244 properly refers to the star cluster embedded in the nebula, and the nebula itself includes NGC 2237, 2238, 2239, and 2246. Like the <a href='object.html?N1499'>California Nebula</a>, the Rosette would be the most dramatic object in the sky were it only brighter. It is almost three times the size of the full moon, and well placed in the late winter sky for observers worldwide. Over time, the gas that comprises the nebula will condense and form more stars. The radiation from these stars will disperse the remnant gas, leaving only the star cluster."
+}

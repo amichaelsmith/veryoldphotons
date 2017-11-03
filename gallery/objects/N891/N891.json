@@ -1,0 +1,22 @@
+{
+  "name": "NGC 891",
+  "alias": "",
+  "aspect": 1.5,
+  "ra": "02h 22m 33.4s",
+  "dec": "+42° 20′ 57″",
+  "positionangle": "0.0",
+  "distance": "27,300,000 light years",
+  "constellation": "Andromeda",
+  "season": "Autumn",
+  "date": "October 5, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "Celestron C14 @ f5.5",
+  "camera": "SBIG ST8-XME",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 130,50,50,50",
+  "pixelscale": "0.94",
+  "location": "Estes Park, Colorado",
+  "info": "https://en.wikipedia.org/wiki/NGC_891",
+  "description": "",
+  "negative": "N891-negative.jpg"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "NGC 6960/6992",
+  "alias": "Cygnus Loop",
+  "ra": "20h 45m",
+  "dec": "+30° 42′",
+  "positionangle": "0.0",
+  "distance": "1470 light years",
+  "constellation": "Cygnus",
+  "season": "Autumn",
+  "date": "November 18, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "HO: 180,240",
+  "pixelscale": "3.5",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Veil_Nebula",
+  "description": "The Cygnus Loop is a gigantic supernova remnant tucked under the left wing of Cygnus the Swan. The whole loop is nearly 3° in diameter, and consists of at least six distinct NGC and IC objects. The supernova that created the loop probably exploded about 30,000 years ago. The loop is primarily the result of the shock wave from that explosion, expanding out into space, and sweeping up the dispersed gas of the interstellar medium as it passes. If you look creafully, you might notice that the background sky inside the loop is a little darker than that outside. The red color of the loop itself is ionized hydrogen gas, whereas the blue is ionized oxygen."
+}

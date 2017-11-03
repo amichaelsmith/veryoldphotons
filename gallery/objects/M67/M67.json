@@ -1,0 +1,21 @@
+{
+  "name": "M67",
+  "alias": "",
+  "aspect": 1.514,
+  "ra": "08h 51m",
+  "dec": "+11° 49′",
+  "positionangle": "0.0",
+  "distance": "2700 light years",
+  "constellation": "Cancer",
+  "season": "Spring",
+  "date": "January 31, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Canon 20D",
+  "mount": "Celestron CGE",
+  "exposure": "170",
+  "pixelscale": "2.48",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Messier_67",
+  "description": "M67 is an unusually old open cluster - estimates of its age range from 3.2 to 5 billion years. This fact, together with its proximity to Earth, have made it a prime candidate for deep study of the life cycle of stars. Because all of its members stars are of approximately the same distance, their apparent brightnesses differ from their absolute brightness by a constant multiplier. This makes it easy to plot brightness as a function of temperature (derived from spectra) to form a <a href='https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram'>Hertzsprung-Russell</a> diagram. The so-called H-R diagram offers deep insight into stellar evolution and population distribution of different types of stars."
+}

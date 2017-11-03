@@ -1,0 +1,23 @@
+{
+  "name": "NGC 2903",
+  "alias": "",
+  "aspect": 1.324,
+  "ra": "09h 32m 10.1s",
+  "dec": "+21° 30′ 03″",
+  "positionangle": "0.0",
+  "distance": "30,600,000 light years",
+  "constellation": "Leo",
+  "season": "Spring",
+  "date": "February 12, 2013",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "SBIG ST-8300",
+  "mount": "AstroPhysics Mach 1",
+  "exposure": "LRGB: 180,65,60,60",
+  "pixelscale": "1.07",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/NGC_2903",
+  "description": "NGC 2903 is an example of an isolated galaxy that does not appear to belong to a galaxy cluster. These so-called 'field' galaxies are relatively uncommon, as about 80% of all galaxies are gravitationally bound to close-by galactic neighbors. This galaxy is a barred spiral, with its spiral arms originating from the two ends of a large central bar of stars. It is thought that 2/3 of all spirals are barred, and this large population includes our own Milky Way Galaxy.",
+  "negative": "N2903-negative.jpg",
+  "closeup": "N2903-zoom.jpg"
+}

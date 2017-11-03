@@ -1,0 +1,20 @@
+{
+  "name": "NGC 6888",
+  "alias": "Crescent Nebula",
+  "ra": "20h 12m 7s",
+  "dec": "+38° 21.3′",
+  "positionangle": "0.0",
+  "distance": "5000 light years",
+  "constellation": "Cygnus",
+  "season": "Autumn",
+  "date": "October 24, 2015",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "HORGB: 195,210,60,75,75",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Crescent_Nebula",
+  "description": "The complex structure of the Crescent Nebula hints at its convoluted history. Just above the center of the nebula is an unusually colored star that appears to drive the story. About 250,000 years ago, this star evolved through a red supergiant phase, and expelled a large amount of gas out into space. More recently, the star transitioned to a Wolf-Rayet phase, and again expelled gas but at a much greater velocity. The second, younger shell overtook the older and created two shock waves - one expanding outward, the other inward. The outer wave drives the overall expansion of the nebula while the inward one has given rise to the complex internal structure. This image was created using narrow-band filters to isolate a few selected wavelengths of light. Blue represents ionized oxygen, red represents ionized hydrogen. The stars appear in their natural colors"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Moon",
+  "alias": "26 Days",
+  "ra": "11h 15m",
+  "dec": "-00° 55'",
+  "positionangle": "0.0",
+  "distance": "365,127 km",
+  "constellation": "Leo",
+  "season": "Autumn",
+  "date": "November 2, 2010",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "0.2 sec",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Moon",
+  "description": "Sometimes an image just falls in your lap - such was the case here. I was out in the morning twilight closing up the observatory after a full night of imaging deep sky objects. The crescent moon was so enticing and sky so clear, that on a whim I pointed the scope towards the Moon and took this image. The term '26 days' describes the 'age' of the Moon during its approximately monthly cycle of about 29.5 days."
+}

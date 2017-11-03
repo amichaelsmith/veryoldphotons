@@ -1,0 +1,21 @@
+{
+  "name": "Transit of Mercury",
+  "alias": "May 9, 2016",
+  "aspect": 1.5,
+  "ra": "",
+  "dec": "",
+  "positionangle": "0.0",
+  "distance": "",
+  "constellation": "",
+  "season": "Spring",
+  "date": "May 9, 2015",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "1/500 sec",
+  "pixelscale": "1.19",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Transit_of_Mercury",
+  "description": ""
+}

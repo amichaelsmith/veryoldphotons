@@ -1,0 +1,20 @@
+{
+  "name": "M92",
+  "alias": "",
+  "ra": "17h 17m 07.39s",
+  "dec": "+43° 08′ 09.4″",
+  "positionangle": "0.0",
+  "distance": "26,700 light years",
+  "constellation": "Hercules",
+  "season": "Summer",
+  "date": "August 30, 2011",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 120,65,45,55",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Messier_92",
+  "description": "M92 is a spectacular globular star cluster, but often overlooked due to its proximity to <a href='object.html?M13'>M13</a>. Like most other globular clusters, M92 is extremely ancient - at 13 billion years, nearly as old as the universe itself. For reasons not well understood, M92 contains relatively few variables stars - about 20. Contrast this with <a href='object.html?M3'>M3</a>, which contains more than 270!"
+}

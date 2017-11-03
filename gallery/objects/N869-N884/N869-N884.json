@@ -1,0 +1,28 @@
+{
+  "name": "NGC 869 / NGC 884",
+  "alias": "Double Cluster",
+  "aspect": 1.322,
+  "ra": "2h 20m",
+  "dec": "57° 08′",
+  "positionangle": "0.0",
+  "distance": "7500 light years",
+  "constellation": "Perseus",
+  "season": "Autumn",
+  "date": "December 8, 2010",
+  "seeing": "3.0″ (average)",
+  "instrument": "TEC 140",
+  "camera": "SBIG ST-8300",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "RGB: 50,40,40",
+  "pixelscale": "1.07",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Double_Cluster",
+  "description": "NCG 869 and 884 form the famous Double Cluster in Perseus - easily visible below Cassiopeia on late autumn nights. Unlike most visual double clusters, these clusters do appear to be physically linked, sharing both the same distance and age. One of the enduring mysteries in the history of astronomy is why Charles Messier chose not to include this pair in his famous catalog. He undoubtedly knew of their existence, and had already included such well known objects as M31, M42, and M45. Stephen James O'Meara addresses this question with an in-depth essay in his excellent book 'The Messier Objects'.",
+  "special": [
+    {
+      "name": "Old",
+      "image": "N869-N884-Old-2000.jpg",
+      "description": "Original version, before remastering"
+    }
+  ]
+}

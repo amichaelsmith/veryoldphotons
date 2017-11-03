@@ -1,0 +1,29 @@
+{
+  "name": "M51",
+  "alias": "Whirlpool Galaxy",
+  "ra": "13h 29m 52.7s",
+  "dec": "+47° 11′ 43″",
+  "positionangle": "0.0",
+  "distance": "23,000,000 light years",
+  "constellation": "Canes Venatici",
+  "season": "Spring",
+  "date": "April 11, 2015",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "LRGB: 300, 90, 90, 90",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Whirlpool_Galaxy",
+  "description": "M51 is perhaps the most dramatic grand-design spiral galaxy accessible to amateur astronomers. Its distinctive spiral arms are readily visible to the eye in a modest telescope under dark skies. The upper spiral arm forms a bridge to the the smaller satellite galaxy NGC 5195, and the two galaxies are gravitationally bound. Note also the small pink blobs decorating the spiral arms - each of these is a major nebula akin to the Orion Nebula in our own galaxy. In 2011, M51 produced a supernova - see the 'Supernova' entry in the display options.",
+  "negative": "M51-negative.jpg",
+  "closeup": "M51-zoom.jpg",
+  "special": [
+    {
+      "name": "Supernova",
+      "image": "M51-SN2011dh.jpg",
+      "description": "Supernova SN2011dh"
+    }
+  ]
+}
