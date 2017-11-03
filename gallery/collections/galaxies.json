@@ -1,0 +1,137 @@
+{
+  "image": [
+    {
+      "name": "M31",
+      "displayName": "M31",
+      "type": ["galaxy:spiral"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+     },
+    {
+      "name": "M33",
+      "displayName": "M33",
+      "type": ["galaxy:spiral"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M51",
+      "displayName": "M51",
+      "type": ["galaxy:spiral"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M65-M66",
+      "displayName": "M65/M66/NGC 3280",
+      "type": ["galaxy:spiral","galaxy:group"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M74",
+      "displayName": "M74",
+      "type": ["galaxy:spiral"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M81-M82",
+      "displayName": "M81/M82",
+      "type": ["galaxy:spiral","galaxy:group"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M81-M82-Cirrus",
+      "displayName": "M81/M82/IF Nebulae",
+      "type": ["galaxy:spiral","galaxy:group","nebula:reflection"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M95-M96",
+      "displayName": "M95/M96",
+      "type": ["galaxy:spiral","galaxy:group"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M101",
+      "displayName": "M101",
+      "type": ["galaxy:spiral"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M106",
+      "displayName": "M106",
+      "type": ["galaxy:spiral"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N772",
+      "displayName": "NGC 772",
+      "type": ["galaxy:spiral"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N891",
+      "displayName": "NGC 891",
+      "type": ["galaxy:spiral"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N2403",
+      "displayName": "NGC 2403",
+      "type": ["galaxy:spiral"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N2903",
+      "displayName": "NGC 2903",
+      "type": ["galaxy:spiral"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N3184",
+      "displayName": "NGC 3184",
+      "type": ["galaxy:spiral","galaxy:group"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N3718",
+      "displayName": "NGC 3718",
+      "type": ["galaxy:spiral"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N4565",
+      "displayName": "NGC 4565",
+      "type": ["galaxy:spiral"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N7331",
+      "displayName": "NGC 7331",
+      "type": ["galaxy:spiral","galaxy:group"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "VirgoCluster",
+      "displayName": "Virgo Cluster",
+      "type": ["galaxy:spiral","galaxy:group"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    }
+  ]
+}

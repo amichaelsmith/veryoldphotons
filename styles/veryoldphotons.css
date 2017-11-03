@@ -1,0 +1,405 @@
+@charset "utf-8";
+
+body {
+  background-color: black;
+}
+
+.body-background {
+  background-image: url("../images/Background-Dark.jpg");
+  background-repeat: repeat;
+}
+
+h1 {
+  font-family: 'Cinzel', serif;
+	color: #BB0000;
+	font-weight: 700;
+	font-size: xx-large;
+	padding: 0;
+	margin-bottom: 8px;
+  text-align: left;
+}
+
+h2 {
+  font-family: 'Cinzel', serif;
+	color: #BB0000;
+	font-weight: 700;
+	font-size: large;
+  margin-bottom: 8px;
+  margin-top: 8px;
+}
+
+/* Dynamic behavior of links */
+a:link {
+	color: #900;
+	text-decoration: underline;
+}
+
+a:hover, a:active, a:focus {
+    color: #900;
+	  text-decoration: none;
+    font-weight: 400;
+}
+
+.thumbnail-caption {
+    color: steelblue;
+    width: 200px;
+    font-weight: 400;
+    font-size: medium;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.gallery-thumbnail {
+    padding-right: 12px;
+    padding-bottom: 12px;
+    width: 200px;
+    float: left;
+}
+
+.gallery-entry {
+  margin: 24px;
+}
+
+.footer-text {
+  position: relative;
+	font-size: xx-small;
+  color: darkgray;
+}
+
+.category {
+	vertical-align: top;
+	padding-left: 12px;
+  max-width: 600px;
+  min-width: 240px;
+}
+
+.banner {
+  position: relative;
+  z-index: 2;
+  max-width:100%;
+  max-height:100%;
+}
+
+.auto-size-img {
+  max-width:100%;
+  max-height:100%;
+}
+
+/* Single Image Page Styles */
+
+.main-image-frame {
+    position: fixed;
+    /* width and height must be adjusted at runtime
+    to min(window.innerWidth, window.innerHeight) */
+    width: 300px;
+    height: 300px;
+    left: 0;
+    top: 0;
+    z-index: 0;
+    display: none;
+    /*background-color: aquamarine;*/
+}
+
+.main-image {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+
+.descriptive-image {
+  /*border: 1px;*/
+  /*border-color: #BB0000;*/
+  /*border-style: solid;*/
+  width: 90%;
+  max-width: 720px;
+}
+
+.object-name {
+    position: fixed;
+    display: block;
+    left: 0px;
+    top: 0px;
+    height: 12px;
+    z-index: 1;
+}
+
+.object-title {
+    font-family: 'Cinzel', serif;
+    color: #BB0000;
+    font-weight: 500;
+    font-size: 300%;
+    padding: 8px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+    margin-left: 8px;
+    text-align: left;
+    z-index: 1;
+}
+
+.footer {
+  height: 12px;
+  width: 900px;
+  /*background-color: rgba(255,0,0,.5);*/
+  z-index: 1;
+  position: fixed;
+  bottom: 0;
+  background-color: transparent;
+}
+
+.image-footer {
+  position: absolute;
+  z-index: 2;
+  max-height:32px;
+  min-height:16px;
+  height: 5%;
+  width: 100%;
+  bottom: 0px;
+}
+
+.image-footer-banner {
+  position: absolute;
+  z-index: 2;
+  /*float: left;*/
+  width: 40%;
+  bottom: 0px;
+}
+
+.image-footer-text {
+  position: absolute;
+  width: 40%;
+  bottom: 0px;
+  right: 110px;
+  font-size: 60%;
+  text-align: right;
+  color: darkgray;
+  background-color: transparent;
+  z-index: 2;
+  margin-bottom: 6px;
+}
+
+.image-footer-dcma {
+  position: absolute;
+  width: 20%;
+  bottom: 0px;
+  right: 4px;
+  font-size: 60%;
+  text-align: right;
+  color: darkgray;
+  background-color: transparent;
+  z-index: 2;
+  margin-bottom: 4px;
+}
+
+.footer-text {
+  clear: left;
+  float: left;
+  font-size: 60%;
+  color: darkgray;
+  z-index: 1;
+  vertical-align: center;
+  display: inline-block;
+  line-height: normal;
+  margin-left: 4px;
+}
+
+/* Toolbar Styles */
+
+.toolbar {
+  /*position: fixed;*/
+  position: relative;
+  display: block;
+  /*left: 12px;*/
+  /*top: 72px;*/
+  margin: 8px;
+  margin-top: 0px;
+  width: 8%;
+  z-index: 2;
+  float: left;
+  min-width: 36px;
+  max-width: 36px;
+}
+
+.toolbar-img {
+  position: fixed;
+  left: 12px;
+  top: 72px;
+  width: 36px;
+  height: 400px;
+}
+
+.tool {
+  width: 36px;
+  height: 36px;
+  border-width: 0px;
+  border-radius: 4px;
+  text-align: center;
+  background-color: transparent;
+  border-color: #646464;
+  outline: none;
+  /*color: #646464;*/
+  color: #BB0000;
+  z-index: 1;
+}
+
+.tool:hover {
+  background-color: #323232;
+  color: #BB0000;
+}
+
+.content {
+  position: relative;
+  color: silver;
+  z-index: 1;
+  /*display: block;*/
+  /*position: fixed;*/
+  /*left: 60px;*/
+  width: 90%;
+  /*top: 72px;*/
+  margin-top: 8px;
+  overflow: auto;
+  float: left;
+  clear: all;
+}
+
+.landing-content {
+  position: relative;
+  color: silver;
+  z-index: 1;
+  width: 90%;
+  margin-top: 8px;
+  overflow: auto;
+  float: left;
+  clear: all;
+  border-radius: 4px;
+  background-color: rgba(64,64,64,.60);
+  padding: 8px;
+}
+
+.content-gallery {
+  position: relative;
+  color: silver;
+  z-index: 1;
+  /*display: block;*/
+  /*position: fixed;*/
+  /*left: 60px;*/
+  width: 92%;
+  /*top: 72px;*/
+  margin-top: 8px;
+  overflow: visible;
+  float: left;
+  clear: all;
+}
+
+.narrative-text {
+  /*font-family: 'Titillium Web', sans-serif;*/
+  font-family: 'Raleway', sans-serif;
+  color: silver;
+  font-size: medium;
+  font-weight: 300;
+  margin-bottom: 8px;
+}
+
+.tool-demo {
+  font-weight: 300;
+  border-width: 0px;
+  text-align: center;
+  background-color: transparent;
+  outline: none;
+  color: #BB0000;
+  z-index: 1;
+}
+
+#quick-buttons {
+  width: 100%;
+}
+
+.large-button {
+  float: left;
+  width: 240px;
+  height: 36px;
+  z-index: 1;
+  color: silver;
+  margin: 24px;
+  font-family: 'Cinzel', serif;
+  font-size: x-large;
+  font-weight: 700;
+  border-width: 1px;
+  border-radius: 4px;
+  border-color: #900;
+  text-align: center;
+  background-color: #900;/* transparent;*/
+}
+
+/* Styles for image details popup */
+
+.image-details {
+  position: fixed;
+  left: 60px;
+  top: 72px;
+  width: 30%;
+  padding: 10px;
+  min-width: 300px;
+  max-width: 300px;
+  border-radius: 4px;
+  background-color: rgba(64,64,64,.60);
+  display: none;
+  /*Use visible | hidden to toggle*/
+}
+
+.image-detail-hr {
+  background-color: #646464;
+  height: 1px;
+  border: 0;
+}
+
+.content-hr {
+  background-color: #BB0000;
+  height: 1px;
+  border: 0;
+}
+
+#image-description {
+  font-size: small;
+  font-style: italic;
+  color: #B0BFBF;
+  margin: 8px;
+}
+
+#more-details {
+  margin-top: 0px;
+  text-align: left;
+  font-size: small;
+  font-style: italic;
+  color: #BB0000;
+}
+
+.table-title {
+  color: #BB0000;
+  font-weight: 700;
+  text-align: left;
+  font-size: medium;
+  margin: 0px 0px 0px 0px;
+}
+
+#table-details {
+  margin: 8px;
+}
+
+.detail-name {
+  font-weight: 500;
+  text-align: left;
+  font-size: small;
+  color: silver;
+  width: 110px;
+}
+
+.detail-value {
+  text-align: left;
+  font-size: small;
+  font-style: italic;
+  font-weight: 300;
+  color: #B0BFBF;
+}

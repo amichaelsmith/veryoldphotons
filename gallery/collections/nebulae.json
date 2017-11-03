@@ -1,0 +1,221 @@
+{
+  "image": [
+    {
+      "name": "M1",
+      "displayName": "M1",
+      "type": ["nebula:snr"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M8-M20-M21",
+      "displayName": "M8 / M20 / M21",
+      "type": ["nebula:emission","nebula:reflection","cluster:open"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M16",
+      "displayName": "M16",
+      "type": ["nebula:emission","cluster:open"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M27",
+      "displayName": "M27",
+      "type": ["nebula:planetary"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M42",
+      "displayName": "M42",
+      "type": ["nebula:emission","nebula:reflection"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M42-NB",
+      "displayName": "M42 Narrow Band",
+      "type": ["nebula:emission","nebula:reflection"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M45",
+      "displayName": "M45",
+      "type": ["cluster:open","nebula:reflection"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M52-Bubble",
+      "displayName": "M52/NGC 7635",
+      "type": ["nebula:emission","cluster:open"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M57",
+      "displayName": "M57 (Ring)",
+      "type": ["nebula:planetary"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M81-M82-Cirrus",
+      "displayName": "M81/M82/IF Nebulae",
+      "type": ["galaxy:spiral","galaxy:group","nebula:reflection"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "B33",
+      "displayName": "B33",
+      "type": ["nebula:dark","nebula:emission","nebula:reflection"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N281",
+      "displayName": "NGC 281 (Pacman)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N1499",
+      "displayName": "NGC 1499",
+      "type": ["nebula:emission"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N2244",
+      "displayName": "NGC 2244 / Rosette",
+      "type": ["nebula:emission", "cluster:open"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N2264",
+      "displayName": "NGC 2264 (Cone) Field",
+      "type": ["nebula:emission", "cluster:open"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N2359",
+      "displayName": "NGC 2359 (Thor's Helmet)",
+      "type": ["nebula:emission"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N6888",
+      "displayName": "NGC 6888 (Crescent Nebula)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-10-25T00:00:00Z"
+    },
+    {
+      "name": "N6960-N6992",
+      "displayName": "Cygnus Loop",
+      "type": ["nebula:snr"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N7000",
+      "displayName": "NGC 7000",
+      "type": ["nebula:emission", "cluster:open"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N7023",
+      "displayName": "NGC 7023 (Iris)",
+      "type": ["nebula:reflection"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N7380",
+      "displayName": "NGC 7380 (Wizard)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "IC405",
+      "displayName": "IC 405 (Flaming Star)",
+      "type": ["nebula:emission"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "IC443",
+      "displayName": "IC 443 (Jellyfish)",
+      "type": ["nebula:snr"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "IC1318",
+      "displayName": "IC 1318 (Sadr)",
+      "type": ["nebula:emission"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "IC1318-Wide",
+      "displayName": "IC 1318 (Sadr) Wide Field",
+      "type": ["nebula:emission"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "IC1805",
+      "displayName": "IC1805 (Heart)",
+      "type": ["nebula:emission", "cluster:open"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "IC1805-Sh2-199",
+      "displayName": "IC1805 (Heart & Soul)",
+      "type": ["nebula:emission", "cluster:open"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "IC5146",
+      "displayName": "IC 5146 (Cocoon)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "Sh2-136",
+      "displayName": "Sh2-136 (Ghosts)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-10-20T00:00:00Z"
+    },
+    {
+      "name": "Sh2-155",
+      "displayName": "Sh2-155 (Cave)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "Abell21",
+      "displayName": "Abell 21 (Medusa)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    }
+  ]
+}

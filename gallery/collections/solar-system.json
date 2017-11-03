@@ -1,0 +1,130 @@
+{
+  "image": [
+    {
+      "name": "SolarEclipse2017Totality",
+      "displayName": "Eclipse 2017: Totality",
+      "type": ["solar-system:eclipse"],
+      "season": "summer",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "SolarEclipse2017",
+      "displayName": "Eclipse 2017: Full",
+      "type": ["solar-system:eclipse"],
+      "season": "summer",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "SolarEclipse2017DiamondRing",
+      "displayName": "Eclipse 2017: Ring",
+      "type": ["solar-system:eclipse"],
+      "season": "summer",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "SolarEclipse2014",
+      "displayName": "Solar Eclipse 2014",
+      "type": ["solar-system:eclipse"],
+      "season": "autumn",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "SolarEclipse2012",
+      "displayName": "Solar Eclipse 2012",
+      "type": ["solar-system:eclipse"],
+      "season": "spring",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "LunarEclipse-2014",
+      "displayName": "Lunar Eclipse 2014",
+      "type": ["solar-system:lunar-eclipse"],
+      "season": "spring",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "LunarEclipse-2010",
+      "displayName": "Lunar Eclipse 2010",
+      "type": ["solar-system:lunar-eclipse"],
+      "season": "winter",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "LunarEclipse-2015",
+      "displayName": "Lunar Eclipse 2015",
+      "type": ["solar-system:lunar-eclipse"],
+      "season": "spring",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "LunarEclipse-2011",
+      "displayName": "Lunar Eclipse 2011",
+      "type": ["solar-system:lunar-eclipse"],
+      "season": "autumn",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "VenusOccultation-2009",
+      "displayName": "Venus Occultation 2009",
+      "type": ["solar-system:occultation"],
+      "season": "spring",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "Venus-Jupiter-Conjunction",
+      "displayName": "Venus & Jupiter",
+      "type": ["solar-system:conjunction"],
+      "season": "summer",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "CometHolmes200717P",
+      "displayName": "Comet Holmes 2007 17P",
+      "type": ["solar-system:comet"],
+      "season": "autumn",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "CometLovejoy2013R1",
+      "displayName": "Comet Lovejoy 2013R1",
+      "type": ["solar-system:comet"],
+      "season": "autumn",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "CometLovejoy2014Q2",
+      "displayName": "Comet Lovejoy 2014Q2",
+      "type": ["solar-system:comet"],
+      "season": "winter",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "VenusTransit2012",
+      "displayName": "Transit of Venus 2012",
+      "type": ["solar-system:comet"],
+      "season": "spring",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "MercuryTransit2016",
+      "displayName": "Transit of Mercury 2016",
+      "type": ["solar-system:comet"],
+      "season": "spring",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "Moon",
+      "displayName": "Moon",
+      "type": ["solar-system:moon"],
+      "season": "spring",
+      "pubDate": "2017-08-29T00:00:00Z"
+    },
+    {
+      "name": "EarthShadow-BeltofVenus",
+      "displayName": "Earth's Shadow",
+      "type": ["solar-system:comet"],
+      "season": "spring",
+      "pubDate": "2017-08-29T00:00:00Z"
+    }
+  ]
+}

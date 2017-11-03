@@ -1,0 +1,4 @@
+npm install -g http-server
+http-server -c-1
+which spins up a nodejs httpd which does a dir listing of your static files visible from :
+http://localhost:8080

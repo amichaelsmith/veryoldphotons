@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>veryoldphotons</title>
+  <script src="https://use.fontawesome.com/791bbd880f.js"></script>
+  <link href="styles/reset.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
+  <link href="styles/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href="styles/veryoldphotons.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div class="main-image-frame">
+    <img class="main-image" id="image" src="">
+    <div class="image-footer">
+      <img class="image-footer-banner" src="images/logo.png" alt="veryoldphotons.com">
+      <div class="image-footer-text">Copyright &copy; 2017 Michael Smith. All rights reserved.<br />Reuse of content without explicit permission is strictly prohibited.</div>
+      <div class="image-footer-dcma">
+        <a href="//www.dmca.com/Protection/Status.aspx?ID=7074fe59-fe82-47a9-af39-4fa05d3fc14c" title="DMCA.com Protection Status" class="dmca-badge"> <img src="//images.dmca.com/Badges/dmca-badge-w100-5x1-08.png?ID=7074fe59-fe82-47a9-af39-4fa05d3fc14c" alt="DMCA.com Protection Status"></a> <script src="//images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+      </div>
+      </div>
+  </div>
+  <div class="object-name">
+    <p class="object-title" id="image-caption"></p>
+  </div>
+  <div class="toolbar-img">
+    <button id="previous" class="tool" title="Previous Image"><span class="fa fa-chevron-circle-left fa-lg"></span></button>
+    <button id="next" class="tool" title="Next Image"><span class="fa fa-chevron-circle-right fa-lg"></span></button>
+    <button id="fit" class="tool" title="Show Entire Image"><span class="fa fa-compress fa-lg"></span></button>
+    <button id="max" class="tool" title="Fill the Screen"><span class="fa fa-expand fa-lg"></span></button>
+    <button id="main" class="tool" title="Main Image"><span class="fa fa-camera fa-lg"></span></button>
+    <button id="negative" class="tool" title="Negative"><span class="fa fa-adjust fa-lg"></span></button>
+    <button id="zoom" class="tool" title="Closeup"><span class="fa fa-search fa-lg"></span></button>
+    <button id="info" class="tool" title="Information"><span class="fa fa-info-circle fa-lg"></span></button>
+    <a href="galleries.html"><button id="gallery" class="tool" title="Image Gallery"><span class="fa fa-photo fa-lg"></span></button></a>
+    <a href="index.html"><button id="home" class="tool" title="Home"><span class="fa fa-home fa-lg"></span></button></a>
+    <a href="technology.html"><button id="tech" class="tool" title="Learn About the Technology"><span class="fa fa-cogs fa-lg"></span></button></a>
+    <a href="about.html"><button id="about" class="tool" title="About"><span class="fa fa-question fa-lg"></span></button></a>
+  </div>
+  <div class="image-details">
+    <p class="table-title">Description</p>
+    <p id="image-description"></p>
+    <a id="more-details">More information...</a>
+    <hr class="image-detail-hr">
+    <p class="table-title">Details</p>
+    <table id="table-details"></table>
+  </div>
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src="scripts/utilities.js"></script>
+  <script src="scripts/object.js"></script>
+  <script>
+    $(document).ready()
+    {
+      // retrieve the query string
+      var strQuery = self.location.search;
+      // strip off leading '?'
+      strQuery = strQuery.split('?');
+      var objName = strQuery[1];
+      loadObject(objName);
+    };
+    $(document).bind("contextmenu", function (event) {
+      // Avoid the real one
+      event.preventDefault();
+    });
+  </script>
+</body>
+</html>

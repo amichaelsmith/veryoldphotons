@@ -1,0 +1,12 @@
+{
+  "image": [
+    {
+      "name": "Venus-Jupiter-Conjunction",
+      "displayName": "Venus & Jupiter",
+      "aspect": 1.5,
+      "type": ["solar-system:conjunction"],
+      "season": "summer",
+      "pubDate": "2017-08-29T00:00:00Z"
+    }
+  ]
+}

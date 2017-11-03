@@ -1,0 +1,140 @@
+{
+  "image": [
+    {
+      "name": "M2",
+      "displayName": "M2",
+      "aspect": 1.3245,
+      "type": ["cluster:globular"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M3",
+      "displayName": "M3",
+      "aspect": 1.324,
+      "type": ["cluster:globular"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M5",
+      "displayName": "M5",
+      "aspect": 1.324,
+      "type": ["cluster:globular"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M11",
+      "displayName": "M11 - Wild Duck Cluster",
+      "aspect": 1.324,
+      "type": ["cluster:open"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M11-M26",
+      "displayName": "M11 / M26",
+      "aspect": 1.0,
+      "type": ["cluster:open"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M13",
+      "displayName": "M13",
+      "aspect": 1.0,
+      "type": ["cluster:globular"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M15",
+      "displayName": "M15",
+      "aspect": 1.3245,
+      "type": ["cluster:globular"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M34",
+      "displayName": "M34",
+      "aspect": 1.0,
+      "type": ["cluster:open"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M35",
+      "displayName": "M35",
+      "aspect": 1.34,
+      "type": ["cluster:open"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M39",
+      "displayName": "M39",
+      "aspect": 1.332,
+      "type": ["cluster:open"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M45",
+      "displayName": "M45",
+      "aspect": 1.0,
+      "type": ["cluster:open","nebula:reflection"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M46-M47",
+      "displayName": "M46 / M47",
+      "aspect": 1.5,
+      "type": ["cluster:open"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M52-Bubble",
+      "displayName": "M52/NGC 7635",
+      "aspect": 1.34,
+      "type": ["nebula:emission","cluster:open"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M67",
+      "displayName": "M67",
+      "aspect": 1.514,
+      "type": ["cluster:open"],
+      "season": "spring",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "M92",
+      "displayName": "M92",
+      "aspect": 1.0,
+      "type": ["cluster:globular"],
+      "season": "summer",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N869-N884",
+      "displayName": "NGC 869 / NGC 884",
+      "aspect": 1.322,
+      "type": ["cluster:open"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N7789",
+      "displayName": "NGC 7789",
+      "aspect": 1.0,
+      "type": ["cluster:open"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    }
+ ]
+}
