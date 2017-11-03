@@ -1,0 +1,18 @@
+{
+  "image": [
+    {
+      "name": "Sh2-136",
+      "displayName": "Sh2-136 (Ghosts)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-10-20T00:00:00Z"
+    },
+    {
+      "name": "N6888",
+      "displayName": "NGC 6888 (Crescent Nebula)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-10-25T00:00:00Z"
+    }
+  ]
+}
