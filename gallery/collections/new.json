@@ -1,6 +1,13 @@
 {
   "image": [
     {
+      "name": "M27-NB",
+      "displayName": "M27 (Narrowband)",
+      "type": ["nebula:emission"],
+      "season": "summer",
+      "pubDate": "2017-11-07T00:00:00Z"
+    },
+    {
       "name": "Sh2-136",
       "displayName": "Sh2-136 (Ghosts)",
       "type": ["nebula:emission"],
