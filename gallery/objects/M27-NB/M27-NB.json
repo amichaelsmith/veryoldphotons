@@ -1,0 +1,20 @@
+{
+  "name": "M27",
+  "alias": "Dumbbell (Narrowband)",
+  "ra": "19h 59m 36s",
+  "dec": "+22° 43′ 16″",
+  "positionangle": "0.0",
+  "distance": "1360 light years",
+  "constellation": "Vulpecula",
+  "season": "Summer",
+  "date": "August 15, 2016",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "HORGB: 195,210,120,60,60",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Dumbbell_Nebula",
+  "description": "This view of the Dumbbell Nebula is composed of long exposure images taken through narrow band filters. Such filters serve to isolate single colors of light, as emitted by ionized gases. In this rendition, ionized hydrogen appears red, and ionized oxygen appears blue. The stars are rendered in their natural full-spectrum colors. Compare this image to the <a href='object.html?M27'>natural color image</a> of the same object, and note both the faint extensions and delicate internal structure revealed here. These filters also cause the faint background stars to be suppressed, resulting in the appearance of a less crowded field."
+}
