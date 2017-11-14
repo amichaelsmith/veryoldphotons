@@ -59,6 +59,7 @@ a:hover, a:active, a:focus {
 
 .gallery-entry {
   margin: 24px;
+  padding: 24px;
 }
 
 .footer-text {
@@ -220,6 +221,10 @@ a:hover, a:active, a:focus {
   float: left;
   min-width: 36px;
   max-width: 36px;
+}
+
+.toolbar-big {
+  display: none;
 }
 
 .toolbar-img {
@@ -402,4 +407,29 @@ a:hover, a:active, a:focus {
   font-style: italic;
   font-weight: 300;
   color: #B0BFBF;
+}
+
+@media all and (resolution: 128dpi) {
+  .tool {
+    width: 48px;
+    height: 48px;
+  }
+  .toolbar-img {
+    width: 48px;
+    height: 640px;
+  }
+  .toolbar {
+    display: none;
+  }
+  .toolbar-big {
+    position: relative;
+    display: block;
+    margin: 8px;
+    margin-top: 0px;
+    width: 8%;
+    z-index: 2;
+    float: left;
+    min-width: 48px;
+    max-width: 48px;
+  }
 }
