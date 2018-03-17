@@ -8,11 +8,39 @@
       "pubDate": "2018-01-28T00:00:00Z"
     }, 
     {
-      "name": "M44",
-      "displayName": "M44 (Beehive)",
+      "name": "M74",
+      "displayName": "M74",
+      "type": ["galaxy:spiral"],
+      "season": "autumn",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N6888",
+      "displayName": "NGC 6888 (Crescent)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-10-25T00:00:00Z"
+    },
+    {
+      "name": "N2403",
+      "displayName": "NGC 2403",
+      "type": ["galaxy:spiral"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "N663",
+      "displayName": "NGC 663",
       "type": ["cluster:open"],
-      "season": "spring",
-      "pubDate": "2018-00-30T00:00:00Z"
+      "season": "autumn",
+      "pubDate": "2018-03-05T00:00:00Z"
+    },  
+    {
+      "name": "M42-NB",
+      "displayName": "M42 (Narrowband)",
+      "type": ["nebula:emission","nebula:reflection"],
+      "season": "winter",
+      "pubDate": "2017-07-01T00:00:00Z"
     }
   ]
 }

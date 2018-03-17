@@ -8,7 +8,7 @@
   "constellation": "Virgo/Coma Berenices",
   "season": "Spring",
   "date": "April 30, 2009",
-  "seeing": "3.0″ (average)",
+  "seeing": "4.14″ (average)",
   "instrument": "TEC 140",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
@@ -18,7 +18,7 @@
   "info": "https://en.wikipedia.org/wiki/Virgo_Cluster",
   "description": "This image captures the heart of the Virgo Supercluster of galaxies. More than 2000 individual galaxies are thought to be part of the cluster, and our own Milky Way Galaxy is considered an outlying member. The cluster so large that even at a distance of ~55,000,000 light years, it spans a diameter 16 times that of the full moon. There are many dozens of galaxies visible in this frame, representing the full gamut of galactic forms - big diffuse ellipical galaxies, tight spirals, chaotic irregulars. The biggest and brightest of the ellipticals is M87 - tap the 'Specials' icon on the toolbar for a close-up view in which you can just make out a giant jet of material emerging from the nucleus.",
   "negative": "VirgoCluster-negative.jpg",
-  "closeup": "VirgoCluster-zoom.jpg",
+  "overlay": "VirgoCluster-overlay.png",
   "special": [
     {
       "name": "CloseupM87",

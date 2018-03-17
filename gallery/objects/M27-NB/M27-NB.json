@@ -16,5 +16,8 @@
   "pixelscale": "0.73",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Dumbbell_Nebula",
-  "description": "This view of the Dumbbell Nebula is composed of long exposure images taken through narrow band filters. Such filters serve to isolate single colors of light, as emitted by ionized gases. In this rendition, ionized hydrogen appears red, and ionized oxygen appears blue. The stars are rendered in their natural full-spectrum colors. Compare this image to the <a href='object.html?M27'>natural color image</a> of the same object, and note both the faint extensions and delicate internal structure revealed here. These filters also cause the faint background stars to be suppressed, resulting in the appearance of a less crowded field."
+  "description": "This view of the Dumbbell Nebula is composed of long exposure images taken through narrow band filters. Such filters serve to isolate single colors of light, as emitted by ionized gases. In this rendition, ionized hydrogen appears red, and ionized oxygen appears blue. The stars are rendered in their natural full-spectrum colors. Compare this image to the <a href='object.html?M27'>natural color image</a> of the same object, and note both the faint extensions and delicate internal structure revealed here. These filters also cause the faint background stars to be suppressed, resulting in the appearance of a less crowded field.",
+  "closeup": "M27-NB-zoom.jpg",
+  "negative": "M27-NB-negative.jpg",
+  "overlay": "M27-NB-overlay.png"
 }

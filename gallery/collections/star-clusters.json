@@ -81,19 +81,18 @@
       "pubDate": "2017-07-01T00:00:00Z"
     },
     {
+      "name": "M44",
+      "displayName": "M44 (Beehive)",
+      "type": ["cluster:open"],
+      "season": "spring",
+      "pubDate": "2018-00-30T00:00:00Z"
+    },
+    {
       "name": "M45",
       "displayName": "M45",
       "aspect": 1.0,
       "type": ["cluster:open","nebula:reflection"],
       "season": "autumn",
-      "pubDate": "2017-07-01T00:00:00Z"
-    },
-    {
-      "name": "M46-M47",
-      "displayName": "M46 / M47",
-      "aspect": 1.5,
-      "type": ["cluster:open"],
-      "season": "winter",
       "pubDate": "2017-07-01T00:00:00Z"
     },
     {
@@ -105,14 +104,6 @@
       "pubDate": "2017-07-01T00:00:00Z"
     },
     {
-      "name": "M67",
-      "displayName": "M67",
-      "aspect": 1.514,
-      "type": ["cluster:open"],
-      "season": "spring",
-      "pubDate": "2017-07-01T00:00:00Z"
-    },
-    {
       "name": "M92",
       "displayName": "M92",
       "aspect": 1.0,
@@ -120,6 +111,22 @@
       "season": "summer",
       "pubDate": "2017-07-01T00:00:00Z"
     },
+    {
+      "name": "N663",
+      "displayName": "NGC 663",
+      "aspect": 1.0,
+      "type": ["cluster:open"],
+      "season": "autumn",
+      "pubDate": "2018-03-05T00:00:00Z"
+    },    
+    {
+      "name": "N752",
+      "displayName": "NGC 752",
+      "aspect": 1.0,
+      "type": ["cluster:open"],
+      "season": "autumn",
+      "pubDate": "2017-12-20T00:00:00Z"
+    },    
     {
       "name": "N869-N884",
       "displayName": "NGC 869 / NGC 884",

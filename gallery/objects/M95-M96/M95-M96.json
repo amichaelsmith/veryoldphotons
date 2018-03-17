@@ -17,18 +17,7 @@
   "pixelscale": "1.07",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/M96_Group",
-  "description": "M95 (lower left) and M96 (upper right) are the two brightest members of a group of galaxies in the constellation Leo. The group consists of at least 8 members, and is thought to be an isolated pocket of the much larger Virgo Supercluster of which we (in the Milky Way Galaxy) are probably an outlying member. M95 is a barred spiral - that is, it has typical spiral arms which appear to originate at either end of a distinct central bar composed primarily of ancient stars. Our own galaxy is thought to be a barred spiral. M96 is an intermediate spiral - showing hints of a central bar, but much closer to being an unbarred spiral. Also note the dark streaks superimposed on M96 - these are giant clouds of dust, containing many of the fundamental building blocks of life.",
+  "description": "M95 (upper right) and M96 (lower left) are the two brightest members of a group of galaxies in the constellation Leo. The group consists of at least 8 galaxies, and is thought to be an isolated pocket of the much larger Virgo Supercluster of which we (in the Milky Way Galaxy) are probably an outlying member. M95 is a barred spiral - that is, it has typical spiral arms which appear to originate at either end of a distinct central bar composed primarily of ancient stars. Our own galaxy is thought to be a barred spiral. M96 is an intermediate spiral - showing hints of a central bar, but much closer to being an unbarred spiral. Also note the dark streaks superimposed on M96 - these are giant clouds of dust, containing many of the fundamental building blocks of life.",
   "negative": "M95-M96-negative.jpg",
-  "special": [
-    {
-      "name": "CloseupM95",
-      "image": "M95-M96-zoom-M95.jpg",
-      "description": "M95 Closeup"
-    },
-    {
-      "name": "CloseupM96",
-      "image": "M95-M96-zoom-M96.jpg",
-      "description": "M96 Closeup"
-    }
-  ]
+  "overlay": "M95-M96-overlay.png"
 }

@@ -17,5 +17,7 @@
   "pixelscale": "1.07",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/NGC_7380",
-  "description": "Strictly speaking, NGC 7380 is the designation of the star cluster enveloped by the nebula Sh2-142. Active star formation is still under way here, and over the ensuring several million years, we can expect to see NGC 7380 grow its population. The cluster is readily visible in a modest amateur telescope, but the nebula is extremely difficult to observe. Even in long exposure images, seeing the wizard requires aggressive imagination."
+  "description": "Strictly speaking, NGC 7380 is the designation of the star cluster enveloped by the nebula Sh2-142. Active star formation is still under way here, and over the ensuring several million years, we can expect to see NGC 7380 grow its population. The cluster is readily visible in a modest amateur telescope, but the nebula is extremely difficult to observe. Even in long exposure images, seeing the wizard requires aggressive imagination.",
+  "negative": "N7380-negative.jpg",
+  "overlay": "N7380-overlay.png"
 }

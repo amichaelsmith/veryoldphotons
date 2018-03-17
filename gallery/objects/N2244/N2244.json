@@ -16,5 +16,7 @@
   "pixelscale": "3.5",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Rosette_Nebula",
-  "description": "The Rosette Nebula is a very large HII region some 130 light years in diameter. The designation NGC 2244 properly refers to the star cluster embedded in the nebula, and the nebula itself includes NGC 2237, 2238, 2239, and 2246. Like the <a href='object.html?N1499'>California Nebula</a>, the Rosette would be the most dramatic object in the sky were it only brighter. It is almost three times the size of the full moon, and well placed in the late winter sky for observers worldwide. Over time, the gas that comprises the nebula will condense and form more stars. The radiation from these stars will disperse the remnant gas, leaving only the star cluster."
+  "description": "The Rosette Nebula is a very large HII region some 130 light years in diameter. The designation NGC 2244 properly refers to the star cluster embedded in the nebula, and the nebula itself includes NGC 2237, 2238, 2239, and 2246. Like the <a href='object.html?N1499'>California Nebula</a>, the Rosette would be the most dramatic object in the sky were it only brighter. It is almost three times the size of the full moon, and well placed in the late winter sky for observers worldwide. Over time, the gas that comprises the nebula will condense and form more stars. The radiation from these stars will disperse the remnant gas, leaving only the star cluster.",
+  "negative": "N2244-negative.jpg",
+  "overlay": "N2244-overlay.png"  
 }

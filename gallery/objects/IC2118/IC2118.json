@@ -1,0 +1,22 @@
+{
+  "name": "IC2118",
+  "alias": "Witch Head Nebula",
+  "ra": "05h 02m 00.00s",
+  "dec": "−07° 54′ 00″",
+  "positionangle": "0.0",
+  "distance": "1000 light years",
+  "constellation": "Eridanus",
+  "season": "Winter",
+  "date": "January 19, 2018",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "RGB: 305,270,300",
+  "pixelscale": 3.5,
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/IC_2118",
+  "description": "Hidden in plain sight is an apt description for IC2118. The brilliant star in the upper left-hand corner is Rigel, the lower right corner of the familiar figure of Orion. The nebula itself spans a extent of five full moons. Easy to locate, very large - why haven't you seen this nebula before? It is exceedingly faint. This image is the result of 15 hours of exposure time using a very sensistive CCD camera. The nebula, possibly the remnant of an ancient supernova, shines by the pale reflected light of nearby Rigel. The suggestion of a witch's head in profile is most obvious when viewed upside down.",
+  "negative": "IC2118-negative.jpg",
+  "overlay": "IC2118-overlay.png"
+}

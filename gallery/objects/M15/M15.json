@@ -17,5 +17,7 @@
   "pixelscale": "1.07",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Messier_15",
-  "description": "M15, like many bright globular clusters visible from the northern hemisphere, was discovered in the 18th century. M15 sports an unusually concentrated central core. This is no optical illusion - the core has undergone a process called 'core collapse', in which the stars near center have been drawn inwards, probably by an enormous central black hole. M15 is also notable for containing the planetary nebula Pease 1. Only three such examples of planetary nebulae within a globular cluster have been discovered to date."
+  "description": "M15, like many bright globular clusters visible from the northern hemisphere, was discovered in the 18th century. M15 sports an unusually concentrated central core. This is no optical illusion - the core has undergone a process called 'core collapse', in which the stars near center have been drawn inwards, probably by an enormous central black hole. M15 is also notable for containing the planetary nebula Pease 1. Only three such examples of planetary nebulae within a globular cluster have been discovered to date.",
+  "negative": "M15-negative.jpg",
+  "overlay": "M15-overlay.png"  
 }

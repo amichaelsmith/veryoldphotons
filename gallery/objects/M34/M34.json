@@ -16,5 +16,7 @@
   "pixelscale": "0.73",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Messier_34",
-  "description": "M34 is an open cluster of about 250 million years age. Open clusters are groups of stars that formed from the same nebular cloud at approximately the same time. Like all stars in the galaxy, they slowly revolve around the core of the galaxy. Their mutual gravitation holds the group together until, after many billions of years, the gravitational influence of other stars and objects in the galaxy gradually pulls the cluster apart and its stars merge anonymously into the greater whole of the Milky Way. Our own Sun has very likely undergone this same process, but after 5 billion years, the identities our sibling stars is now lost to us."
+  "description": "M34 is an open cluster of about 250 million years age. Open clusters are groups of stars that formed from the same nebular cloud at approximately the same time. Like all stars in the galaxy, they slowly revolve around the core of the galaxy. Their mutual gravitation holds the group together until, after many billions of years, the gravitational influence of other stars and objects in the galaxy gradually pulls the cluster apart and its stars merge anonymously into the greater whole of the Milky Way. Our own Sun has very likely undergone this same process, but after 5 billion years, the identities our sibling stars is now lost to us.",
+  "negative": "M34-negative.jpg",
+  "overlay": "M34-overlay.png"    
 }

@@ -1,0 +1,30 @@
+{
+  "name": "Sh2-199",
+  "alias": "Soul Nebula",
+  "aspect": 1.5,
+  "ra": "02h 55m 24s",
+  "dec": "+60° 24′ 36″",
+  "positionangle": "0.0",
+  "distance": "7500 light years",
+  "constellation": "Cassiopeia",
+  "season": "Autumn",
+  "date": "November 19, 2009",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Astro-Physics Mach 1",
+  "exposure": "SHORGB: 225,240,225,50,60,55",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Westerhout_5",
+  "description": "The Soul Nebula is closely associated with its nearby companion the <a href='object.html?IC1805'>Heart Nebula</a>. While the Heart bears a resemblance to its namesake, the Soul Nebula has always reminded me of the <a href='gallery/objects/Sh2-199/Sh2-199-Buffs.jpg'>logo</a> used by my alma mater, the University of Colorado, during the mid-20th century. Sh2-199 contains the radio source Westerhout 5. As with many such nebulae, Sh2-199 is the site of star formation, and it is the emission of powerful radiation from these newborn stars that has created the shock wave of gas that appears as the strong orange-colored outline of the nebula.",
+  "negative": "Sh2-199-negative.jpg",
+  "overlay": "Sh2-199-overlay.png",  
+  "special": [
+    {
+      "name": "Buffs",
+      "image": "Sh2-199-Buffs.jpg",
+      "description": "Go Buffs!"
+    }
+  ]
+}

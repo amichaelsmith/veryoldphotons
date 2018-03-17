@@ -3,12 +3,12 @@
   "alias": "Bode's Galaxy",
   "ra": "09h 55m 33.2s",
   "dec": "+69° 3′ 55″",
-  "positionangle": "0.0",
+  "positionangle": "354",
   "distance": "11,800,000 light years",
   "constellation": "Ursa Major",
   "season": "Spring",
   "date": "January 17, 2009",
-  "seeing": "3.0″ (average)",
+  "seeing": "7.3″ (poor)",
   "instrument": "TEC 140",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
@@ -18,5 +18,6 @@
   "info": "https://en.wikipedia.org/wiki/Messier_81",
   "description": "This galaxy pair is a favorite of amateur astronomers in the northern hemisphere. Bode's Galaxy (M81) is the larger of two, and presents a large and detailed view in the eyepiece. Indeed, observers gifted with excellent eyesight and a dark sky have glimpsed M81 with the naked eye - making this the most distant object ever observed without optical aid. The cigar-shaped M82 compensates for its smaller size with drama - in this case with a dramatic starburst formation erupting from the poles of its spiral disk. This effect is thought to have been triggered by tidal forces from a recent (100 million years) close encounter with M81.",
   "negative": "M81-M82-negative.jpg",
-  "closeup": "M81-M82-zoom.jpg"
+  "closeup": "M81-M82-zoom.jpg",
+  "overlay": "M81-M82-overlay.png"
 }

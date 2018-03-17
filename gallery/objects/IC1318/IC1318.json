@@ -16,5 +16,7 @@
   "pixelscale": "1.89",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Sadr_Region",
-  "description": "The bright star upon which this image is centered is Sadr (γ Cygni), the center of the Northern Cross of Cygnus. Almost of the entirety of the constellation Cygnus is filled with complex nebulosity. Here we see bright cloud of emission nebulae, mostly ionized hydrogen, obscured in places by dark foreground molecular clouds. These dark clouds are composed of tiny dust particles coated with frozen carbon monoxide and nitrogen, as well as ammonia, formaldehyde, and other simple organic molecules. In all likelihood, the emission nebulae in this area are nearly continuous, but the dark nebulae block nearly all light directly behind them."
+  "description": "The bright star upon which this image is centered is Sadr (γ Cygni), the center of the Northern Cross of Cygnus. Almost of the entirety of the constellation Cygnus is filled with complex nebulosity. Here we see bright cloud of emission nebulae, mostly ionized hydrogen, obscured in places by dark foreground molecular clouds. These dark clouds are composed of tiny dust particles coated with frozen carbon monoxide and nitrogen, as well as ammonia, formaldehyde, and other simple organic molecules. In all likelihood, the emission nebulae in this area are nearly continuous, but the dark nebulae block nearly all light directly behind them.",
+  "negative": "IC1318-negative.jpg",
+  "overlay": "IC1318-overlay.png"   
 }

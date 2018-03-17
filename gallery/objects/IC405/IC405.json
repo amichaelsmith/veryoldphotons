@@ -16,5 +16,14 @@
   "pixelscale": "3.50",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/IC_405",
-  "description": "The Flaming Star Nebula is primarily an emission nebula (red region) with a touch of reflection nebula (blue region) close to the bright blue star AE Aurigae. This star's measured proper motion indicates that it is a sibling of the bright stars in Orion's belt, and was probably ejected from that group by some close gravitational encounter. Based on this assumption, its relationship to the nebulosity of IC 405 is a chance encounter. As AE Aurigae continues on its course, this nebula will likely eventually go dark. This extended field also includes the nebulae IC 410 (below center), IC 417 (near the yellow star at left) and the the open star cluster M38 (upper left)."
+  "description": "The Flaming Star Nebula is primarily an emission nebula (red region) with a touch of reflection nebula (blue region) close to the bright blue star AE Aurigae. This star's measured proper motion indicates that it is a sibling of the bright stars in Orion's belt, and was probably ejected from that group by some close gravitational encounter. Based on this assumption, its relationship to the nebulosity of IC 405 is a chance encounter. As AE Aurigae continues on its course, this nebula will likely eventually go dark. This extended field also includes the nebulae IC 410 (below center), IC 417 (near the yellow star at left) and the the open star cluster M38 (upper left).",
+  "negative": "IC405-negative.jpg",
+  "overlay": "IC405-overlay.png",
+  "special": [
+    {
+      "name": "Hydrogen",
+      "image": "IC405-H-2000.jpg",
+      "description": "Hydrogen-alpha (656nm) isolated"
+    }
+  ]      
 }

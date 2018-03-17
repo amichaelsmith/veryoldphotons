@@ -4,12 +4,12 @@
   "aspect": 1.34,
   "ra": "06h 09m",
   "dec": "+24° 21′",
-  "positionangle": "0.0",
+  "positionangle": "350",
   "distance": "2800 light years",
   "constellation": "Gemini",
   "season": "Winter",
   "date": "December 8, 2010",
-  "seeing": "3.0″ (average)",
+  "seeing": "4.2″ (average)",
   "instrument": "TEC 140",
   "camera": "SBIG ST-8300",
   "mount": "Astro-Physics Mach 1",
@@ -17,5 +17,7 @@
   "pixelscale": "1.07",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Messier_35",
-  "description": "M35 (center left) presents a striking image when viewed at modest magnification on a crisp winter evening. Its apparent diameter is about the same as that of the full moon, and the cluster is not difficult to pick out as a dim fuzzy 'star' to the naked eye under a dark sky. The setting for M35 is made dramatic by its apparent proximity to the smaller cluster NGC 2158 at lower right. In actual fact, the two clusters are about the same size - the diminished appearance of NGC 2158 is a result of its greater distance - some 6 times further away. The reddish appearance of NGC 2158 is due both to its greater distance (interstellar space is full of trace gas and dust which reddens distant objects) and its greater age - some 2 billion years compared to M35's 133 million."
+  "description": "M35 (center left) presents a striking image when viewed at modest magnification on a crisp winter evening. Its apparent diameter is about the same as that of the full moon, and the cluster is not difficult to pick out as a dim fuzzy 'star' to the naked eye under a dark sky. The setting for M35 is made dramatic by its apparent proximity to the smaller cluster NGC 2158 at lower right. In actual fact, the two clusters are about the same size - the diminished appearance of NGC 2158 is a result of its greater distance - some 6 times further away. The reddish appearance of NGC 2158 is due both to its greater distance (interstellar space is full of trace gas and dust which reddens distant objects) and its greater age - some 2 billion years compared to M35's 133 million.",
+  "negative": "M35-negative.jpg",
+  "overlay": "M35-overlay.png"
 }

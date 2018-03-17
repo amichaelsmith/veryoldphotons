@@ -17,5 +17,7 @@
   "pixelscale": "1.07",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Messier_39",
-  "description": "M39 presents a pleasing highlight in an otherwise crowded field of background Milky Way field stars. To my eye, the shape of the cluster hints at a miniature version of the Hyades - the older and closer cluster that forms the head of Taurus the Bull. The dominance of the blue stars in M39 suggests the cluster is still young - blue stars are the hottest, most massive, and brightest stars. However, their prodigious rate of fuel consumption dooms them to a relatively short life span."
+  "description": "M39 presents a pleasing highlight in an otherwise crowded field of background Milky Way field stars. To my eye, the shape of the cluster hints at a miniature version of the Hyades - the older and closer cluster that forms the head of Taurus the Bull. The dominance of the blue stars in M39 suggests the cluster is still young - blue stars are the hottest, most massive, and brightest stars. However, their prodigious rate of fuel consumption dooms them to a relatively short life span.",
+  "negative": "M39-negative.jpg",
+  "overlay": "M39-overlay.png"    
 }

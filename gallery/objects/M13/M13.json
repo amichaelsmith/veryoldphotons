@@ -16,5 +16,7 @@
   "pixelscale": "0.73",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Messier_13",
-  "description": "The Great Hercules Cluster is surely one of the most spectacular objects accessible to observers with modest telescopes. It is large - nearly the size of the full moon - and easily resolved into thousands of individual stars. Discovered by Edmond Halley (of comet fame) in 1714, is it just visible to the naked eye on a good night, and easy to find between the two right-most stars of the keystone of Hercules. Use the 'Show Entire Image' tool to reveal NGC 6907, a distant spiral galaxy at the upper left of the image. For extra credit, find the much more distant galaxy IC 4617, about half way between M13 and NGC 6907."
+  "description": "The Great Hercules Cluster is surely one of the most spectacular objects accessible to observers with modest telescopes. It is large - nearly the size of the full moon - and easily resolved into thousands of individual stars. Discovered by Edmond Halley (of comet fame) in 1714, is it just visible to the naked eye on a good night, and easy to find between the two right-most stars of the keystone of Hercules. Use the 'Show Entire Image' tool to reveal NGC 6907, a distant spiral galaxy at the upper left of the image. For extra credit, find the much more distant galaxy IC 4617, about half way between M13 and NGC 6907.",
+  "negative": "M13-negative.jpg",
+  "overlay": "M13-overlay.png"  
 }

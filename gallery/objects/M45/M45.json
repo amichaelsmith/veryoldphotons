@@ -3,12 +3,12 @@
   "alias": "Pleiades",
   "ra": "3h 47m 24s",
   "dec": "+24° 07′ 00″",
-  "positionangle": "0.0",
+  "positionangle": "0",
   "distance": "444 light years",
   "constellation": "Taurus",
   "season": "Autumn",
   "date": "September 18, 2009",
-  "seeing": "3.0″ (average)",
+  "seeing": "9.4″ (average)",
   "instrument": "Takahashi FSQ-106",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
@@ -16,5 +16,7 @@
   "pixelscale": "3.50",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Pleiades",
-  "description": "The Pleiades, commonly known as the Seven Sisters, is a nearby open star cluster formed only within the last 100 million years. The cluster is easily visible to the naked eye in late autumn and throughout the winter. To many observers, the Pleiades appear as a 'mini-dipper'. Most people can make out six stars, but those with especially keen vision can work out 13 or more. Because of its young age, the cluster is dominated by hot brilliant blue stars. The nebulosity that enshrouds the Pleiades has no connection with the nebula that birthed the cluster. Rather, this is a chance encounter as the stars pass through the nebula - in the future, with an ever growing distance between them, the nebula will dim and eventually go dark."
+  "description": "The Pleiades, commonly known as the Seven Sisters, is a nearby open star cluster formed only within the last 100 million years. The cluster is easily visible to the naked eye in late autumn and throughout the winter. To many observers, the Pleiades appear as a 'mini-dipper'. Most people can make out six stars, but those with especially keen vision can work out 13 or more. Because of its young age, the cluster is dominated by hot brilliant blue stars. The nebulosity that enshrouds the Pleiades has no connection with the nebula that birthed the cluster. Rather, this is a chance encounter as the stars pass through the nebula - in the future, with an ever growing distance between them, the nebula will dim and eventually go dark.",
+  "negative": "M45-negative.jpg",
+  "overlay": "M45-overlay.png"  
 }

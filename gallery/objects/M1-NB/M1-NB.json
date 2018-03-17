@@ -1,0 +1,44 @@
+{
+  "name": "M1",
+  "alias": "Crab Nebula",
+  "ra": "05h 34m 31.9s",
+  "dec": "+22° 00′ 52.2″",
+  "positionangle": "0.0",
+  "distance": "6500 ± 1600 light years",
+  "constellation": "Taurus",
+  "season": "Winter",
+  "date": "January 26, 2015",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "RGBHOS: 80, 80, 80, 180, 180, 195",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Crab_Nebula",
+  "description": "M1 is the dramatic remnant of a supernova that exploded in 1054 AD. The supernova was recorded by Chinese observers, who described it as visible in broad daylight at its peak. The nebula continues to expand out into space at a rate that can be detected in images taken only a few decades apart. Due to its brightness and abundance of fundamental elements, the Crab Nebula reveals interesting structure in multiple isolated wavelengths. You can explore this effect by browsing the Hydrogen, Oxygen, and Sulfur images in the 'Display' selector above.  Compare this image to the <a href='object.html?M1'>natural color image</a> of the same object. Finally, note that narrowband images typically map single wavelengths to the RGB channels of the display in a more-or-less arbitrary manner. For a somewhat less psychedelic mapping, click the Alternate Palette icon on the left.",
+  "negative": "M1-NB-negative.jpg",
+  "overlay": "M1-overlay.png",
+  "special": [
+    {
+      "name": "Alternate",
+      "image": "M1-NB-alternate.jpg",
+      "description": "Alternate Palette"
+    },
+    {
+      "name": "Hydrogen",
+      "image": "M1-Ha-negative.jpg",
+      "description": "Hydrogen-alpha (656nm) isolated (Negative)"
+    },  
+    {
+      "name": "Oxygen",
+      "image": "M1-O3-negative.jpg",
+      "description": "Oxygen III (501nm) isolated (Negative)"
+    },  	
+    {
+      "name": "Sulfur",
+      "image": "M1-S2-negative.jpg",
+      "description": "Sulfur II (672nm) isolated (Negative)"
+    }
+	]
+}

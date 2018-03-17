@@ -18,5 +18,5 @@
   "info": "https://en.wikipedia.org/wiki/Horsehead_Nebula",
   "description": "The Horsehead Nebula is the iconic example of a dark nebula - usually the result of a dense molecular cloud in the foreground, seen against a more distant backdrop of stars or emission nebulae. In this case, the backdrop is a broad expanse of ionized hydrogen glowing its distinctive red color. The orange Flame Nebula (NGC 2024) dominates the upper center part of the image, illuminated from the right by the bright blue star Alnitak - the leftmost star in Orion's Belt. Elsewhere, the image is punctuated by blue reflection nebulae also illuminated by the bright young stars of Orion.",
   "negative": "B33-negative.jpg",
-  "closeup": "B33-zoom.jpg"
+  "overlay": "B33-overlay.png"
 }

@@ -8,6 +8,13 @@
       "pubDate": "2017-07-01T00:00:00Z"
     },
     {
+      "name": "M1-NB",
+      "displayName": "M1 (Narrowband)",
+      "type": ["nebula:snr"],
+      "season": "winter",
+      "pubDate": "2018-21-01T00:00:00Z"
+    },
+    {
       "name": "M8-M20-M21",
       "displayName": "M8 / M20 / M21",
       "type": ["nebula:emission","nebula:reflection","cluster:open"],
@@ -44,14 +51,14 @@
     },
     {
       "name": "M42-NB",
-      "displayName": "M42 Narrow Band",
+      "displayName": "M42 (Narrowband)",
       "type": ["nebula:emission","nebula:reflection"],
       "season": "winter",
       "pubDate": "2017-07-01T00:00:00Z"
     },
     {
       "name": "M45",
-      "displayName": "M45",
+      "displayName": "M45/Merope Nebula",
       "type": ["cluster:open","nebula:reflection"],
       "season": "autumn",
       "pubDate": "2017-07-01T00:00:00Z"
@@ -121,7 +128,7 @@
     },
     {
       "name": "N6888",
-      "displayName": "NGC 6888 (Crescent Nebula)",
+      "displayName": "NGC 6888 (Crescent)",
       "type": ["nebula:emission"],
       "season": "autumn",
       "pubDate": "2017-10-25T00:00:00Z"
@@ -197,6 +204,13 @@
       "pubDate": "2017-07-01T00:00:00Z"
     },
     {
+      "name": "IC2118",
+      "displayName": "IC2118 (Witch Head)",
+      "type": ["nebula:reflection"],
+      "season": "winter",
+      "pubDate": "2018-01-28T00:00:00Z"
+    }, 
+    {
       "name": "IC5146",
       "displayName": "IC 5146 (Cocoon)",
       "type": ["nebula:emission"],
@@ -216,6 +230,13 @@
       "type": ["nebula:emission"],
       "season": "autumn",
       "pubDate": "2017-07-01T00:00:00Z"
+    },
+    {
+      "name": "Sh2-199",
+      "displayName": "Sh2-199 (Soul)",
+      "type": ["nebula:emission"],
+      "season": "autumn",
+      "pubDate": "2017-11-10T00:00:00Z"
     },
     {
       "name": "Abell21",
