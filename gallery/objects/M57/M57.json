@@ -3,12 +3,12 @@
   "alias": "Ring Nebula",
   "ra": "18h 53m 35.1s",
   "dec": "+33° 01′ 45.03″",
-  "positionangle": "0.0",
+  "positionangle": "45",
   "distance": "2300 light years",
   "constellation": "Lyra",
   "season": "Summer",
   "date": "September 30, 2011",
-  "seeing": "3.0″ (average)",
+  "seeing": "3.7″ (average)",
   "instrument": "Deep Sky Instruments RC14C",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
@@ -16,5 +16,7 @@
   "pixelscale": "0.73",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Ring_Nebula",
-  "description": "The Ring Nebula is perhaps the most famous of all planetary nebulae, as its form is easily seen through amateur telescopes. Planetary nebulae are remnants of the demise of modest-sized stars up to about 3x the mass of the sun. Rather than exploding in a cataclysm, these stars expel their outer layers into space, while the core contracts to become a white dwarf. Many planetaries are roughly spherical in actual shape, but show a ring-like appearance due to the fact that we look through more material on either side as seen from our perspective here on Earth. Look carefully, and you will the distant spiral galaxy IC1296 just to the right of the nebula."
+  "description": "The Ring Nebula is perhaps the most famous of all planetary nebulae, as its form is easily seen through amateur telescopes. Planetary nebulae are remnants of the demise of modest-sized stars up to about 3x the mass of the sun. Rather than exploding in a cataclysm, these stars expel their outer layers into space, while the core contracts to become a white dwarf. Many planetaries are roughly spherical in actual shape, but show a ring-like appearance due to the fact that we look through more material on either side as seen from our perspective here on Earth. Look carefully, and you will the distant spiral galaxy IC1296 just to the right of the nebula.",
+  "negative": "M57-negative.jpg",
+  "overlay": "M57-overlay.png"
 }

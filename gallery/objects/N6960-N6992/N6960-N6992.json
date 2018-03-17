@@ -16,5 +16,19 @@
   "pixelscale": "3.5",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Veil_Nebula",
-  "description": "The Cygnus Loop is a gigantic supernova remnant tucked under the left wing of Cygnus the Swan. The whole loop is nearly 3° in diameter, and consists of at least six distinct NGC and IC objects. The supernova that created the loop probably exploded about 30,000 years ago. The loop is primarily the result of the shock wave from that explosion, expanding out into space, and sweeping up the dispersed gas of the interstellar medium as it passes. If you look creafully, you might notice that the background sky inside the loop is a little darker than that outside. The red color of the loop itself is ionized hydrogen gas, whereas the blue is ionized oxygen."
+  "description": "The Cygnus Loop is a gigantic supernova remnant tucked under the left wing of Cygnus the Swan. The whole loop is nearly 3° in diameter, and consists of at least six distinct NGC and IC objects. The supernova that created the loop probably exploded about 30,000 years ago. The loop is primarily the result of the shock wave from that explosion, expanding out into space, and sweeping up the dispersed gas of the interstellar medium as it passes. If you look carefully, you might notice that the background sky inside the loop is a little darker than that outside. The red color of the loop itself is ionized hydrogen gas, whereas the blue is ionized oxygen.",
+  "negative": "N6960-N6992-negative.jpg",
+  "overlay": "N6960-N6992-overlay.png",
+  "special": [
+    {
+      "name": "Hydrogen",
+      "image": "N6960-N6992-Ha.jpg",
+      "description": "Hydrogen-alpha (656nm) isolated"
+    },  
+    {
+      "name": "Oxygen",
+      "image": "N6960-N6992-O3.jpg",
+      "description": "Oxygen III (501nm) isolated"
+    }
+	]    
 }

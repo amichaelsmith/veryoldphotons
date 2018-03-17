@@ -1,0 +1,22 @@
+{
+  "name": "M44",
+  "alias": "Beehive Cluster",
+  "ra": "08h 40.4m",
+  "dec": "19° 59′",
+  "positionangle": "0.0",
+  "distance": "577 light years",
+  "constellation": "Cancer",
+  "season": "Spring",
+  "date": "March 1, 2017",
+  "seeing": "3.0″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "RGB: 55,65,85",
+  "pixelscale": "3.5",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/Beehive_Cluster",
+  "description": "The Beehive Cluster is readily visible to the naked eye as a faint but distinct wisp of 'nebulosity', near the zenith on early spring evenings. It has been known since antiquity, and was one of the first objects to command Galileo's attention once he began working with his new telescope. The cluster is very nearby, at a distance of about 580 light years, and has an estimated age of about 600 million years. In fact, its age and proper motion are a close match to the Hyades cluster that forms the head of Taurus, suggesting that the two clusters may share a common origin.",
+  "negative": "M44-negative.jpg",
+  "overlay": "M44-overlay.png"
+}

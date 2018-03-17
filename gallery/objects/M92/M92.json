@@ -16,5 +16,7 @@
   "pixelscale": "0.73",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Messier_92",
-  "description": "M92 is a spectacular globular star cluster, but often overlooked due to its proximity to <a href='object.html?M13'>M13</a>. Like most other globular clusters, M92 is extremely ancient - at 13 billion years, nearly as old as the universe itself. For reasons not well understood, M92 contains relatively few variables stars - about 20. Contrast this with <a href='object.html?M3'>M3</a>, which contains more than 270!"
+  "description": "M92 is a spectacular globular star cluster, but often overlooked due to its proximity to <a href='object.html?M13'>M13</a>. Like most other globular clusters, M92 is extremely ancient - at 13 billion years, nearly as old as the universe itself. For reasons not well understood, M92 contains relatively few variables stars - about 20. Contrast this with <a href='object.html?M3'>M3</a>, which contains more than 270!", 
+  "negative": "M92-negative.jpg",
+  "overlay": "M92-overlay.png"    
 }

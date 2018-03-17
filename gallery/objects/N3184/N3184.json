@@ -3,12 +3,12 @@
   "alias": "",
   "ra": "10h 18m 17.0s",
   "dec": "+41° 25′ 28″",
-  "positionangle": "0.0",
+  "positionangle": "343°",
   "distance": "39,800,000 light years",
   "constellation": "Ursa Major",
   "season": "Spring",
   "date": "January 26, 2015",
-  "seeing": "3.0″ (average)",
+  "seeing": "4.3″ (poor)",
   "instrument": "Deep Sky Instruments RC14C",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
@@ -18,5 +18,5 @@
   "info": "https://en.wikipedia.org/wiki/NGC_3184",
   "description": "NGC 3184 is a face-on spiral notable for having produced 5 supernovae in the past century. Since supernovae are thought to occur about once every 500 years in a typical sprial, NGC 3184 is running far ahead of schedule. Notice the three distinct areas of color across the disk. The core shows a distinct yellowish color representative of mature stars. The spiral arms are dominated by a bluish color, typical of bright young stars. Most of the ongoing star formation occurs in the arms, where density waves compress clouds of hydrogen gas to form new stars. Those clouds are readily identified as the small pink blobs superimposed on the spiral arms.",
   "negative": "N3184-negative.jpg",
-  "closeup": "N3184-zoom.jpg"
+  "overlay": "N3184-overlay.png"
 }

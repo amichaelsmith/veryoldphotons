@@ -18,5 +18,5 @@
   "info": "http://en.wikipedia.org/wiki/California_Nebula",
   "description": "The California Nebula typifies a common challenge in astronomy: many objects are exceedly dim, and can only be revealed through very long exposure imaging using highly sensitive detectors. Consider that the California Nebula is nearly directly overhead for North America during the early evening in winter. Further, its extent is five times the size of the full moon! Were it only modestly bright, it would rank amongst the most dramatic sights in the heavens. Yet, it escaped notice until the late 19th century, revealed by early astrophotography.",
   "negative": "N1499-negative.jpg",
-  "closeup": "N1499-zoom.jpg"
+  "overlay": "N1499-overlay.png"
 }

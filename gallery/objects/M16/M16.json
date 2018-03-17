@@ -3,7 +3,7 @@
   "alias": "Eagle Nebula",
   "ra": "18h 18m 48s",
   "dec": "−13° 49′",
-  "positionangle": "0.0",
+  "positionangle": "357",
   "distance": "7000 light years",
   "constellation": "Serpens",
   "season": "Summer",
@@ -18,12 +18,5 @@
   "info": "https://en.wikipedia.org/wiki/Eagle_Nebula",
   "description": "The Eagle Nebula is a classic example of an emission nebula with an embedded star cluster. Such nebula-cluster combinations are common, and for good reason. The nebula is a cloud of the raw material (primarily hydrogen) needed to create stars. In a very real sense, these nebulae are stellar nursuries. Once the stars begin to burn, their light is absorbed by the nebula and re-radiated in this distrintive red color. At the heart of the Eagle Nebula lies the 'Pillars of Creation', made famous as one the iconic images produced by the Hubble Space Telescope. See the 'Pillars' option in 'Display' for the same structure extracted from this image.",
   "negative": "M16-negative.jpg",
-  "closeup": "M16-zoom.jpg",
-  "special": [
-    {
-      "name": "Pillars",
-      "image": "M16-pillars.jpg",
-      "description": "Pillars of Creation Closeup (Negative)"
-    }
-	]
+  "overlay": "M16-overlay.png"
 }

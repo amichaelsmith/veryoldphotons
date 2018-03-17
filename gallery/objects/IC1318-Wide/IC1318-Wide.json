@@ -16,5 +16,7 @@
   "pixelscale": "3.50",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Sadr_Region",
-  "description": "This image presents a wide-field (nearly 4° on a side) view of the region around <a href='object.html?IC1318'>Sadr</a> (γ Cygni). The bright and dark nebulae in the immediate vicinity of Sadr extend to the edge of the frame and far beyond. Several open star clusters decorate the field - most notably, M29 just to left of the bottom center. At bottom right is the <a href='object.html?N6888'>Crescent Nebula,</a> NGC 6888."
+  "description": "This image presents a wide-field (nearly 4° on a side) view of the region around <a href='object.html?IC1318'>Sadr</a> (γ Cygni). The bright and dark nebulae in the immediate vicinity of Sadr extend to the edge of the frame and far beyond. Several open star clusters decorate the field - most notably, M29 just to left of the bottom center. At bottom right is the <a href='object.html?N6888'>Crescent Nebula,</a> NGC 6888.",
+  "negative": "IC1318-Wide-negative.jpg",
+  "overlay": "IC1318-Wide-overlay.png"      
 }

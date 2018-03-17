@@ -1,0 +1,22 @@
+{
+  "name": "NGC 663",
+  "alias": "",
+  "ra": "01h 46.0m",
+  "dec": "+61° 15′",
+  "positionangle": "0",
+  "distance": "6850 light years",
+  "constellation": "Cassiopeia",
+  "season": "Autumn",
+  "date": "November 8, 2016",
+  "seeing": "3.0″ (average)",
+  "instrument": "Deep Sky Instruments RC14C",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "RGB: 60,60,60",
+  "pixelscale": "0.73",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/NGC_663",
+  "description": "Cassiopeia presents an unusual abundance of distinctive open star clusters. NGC 663 is one of its jewels, featuring a rich concentration of young blue stars constrasted with two red supergiants, which appear to be true cluster members. This cluster is of astrophysical significance, as some 24 of its 400 member stars are classified as spectral class Be. Be stars show distinctive hydrogen emission lines thought to originate from unusually rapid rotation. If we could see such a star up close, it is likely to appear distorted into an egg (rather than sphere) shape.",
+  "negative": "N663-negative.jpg",
+  "overlay": "N663-overlay.png"
+}

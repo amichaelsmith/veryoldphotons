@@ -16,5 +16,7 @@
   "pixelscale": "0.73",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/NGC_7789",
-  "description": "NGC 7789 is an open cluster discovered by Caroline Herschel in 1783. Caroline was the sister of the famous astronomer William Herschel, whose groundbreaking catalog of deep-sky objects formed the foundation for the New General Catalog (NGC) compiled in 1888. The cluster is also known as 'Carolines Rose', since the alternating lines of stars and dark lanes suggest a rose seen from above. This cluster has always been a visual favorite for me in medium-to-large telescopes, as it appears unusually compact."
+  "description": "NGC 7789 is an open cluster discovered by Caroline Herschel in 1783. Caroline was the sister of the famous astronomer William Herschel, whose groundbreaking catalog of deep-sky objects formed the foundation for the New General Catalog (NGC) compiled in 1888. The cluster is also known as 'Carolines Rose', since the alternating lines of stars and dark lanes suggest a rose seen from above. This cluster has always been a visual favorite for me in medium-to-large telescopes, as it appears unusually compact.",
+  "negative": "N7789-negative.jpg",
+  "overlay": "N7789-overlay.png"    
 }

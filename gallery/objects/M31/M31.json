@@ -13,10 +13,10 @@
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
   "exposure": "LRGB: 280,90,90,90",
-  "pixelscale": "",
+  "pixelscale": "3.5",
   "location": "Boulder, Colorado",
   "info": "http://en.wikipedia.org/wiki/Andromeda_Galaxy",
   "description": "The largest nearby galaxy, M31 is roughly the same size as our own Milky Way. Easily visible to the naked eye, it was known even to the ancients - the earliest written record dates to 964 AD. The spiral structure of this galaxy is somewhat muted by its oblique orientation. Several smaller satellite galaxies share the frame. Andromeda and the Milky Way are gravitationally bound, and will likely collide and merge to form a single giant galaxy in about 4 billion years.",
   "negative": "M31-negative.jpg",
-  "closeup": "M31-zoom.jpg"
+  "overlay": "M31-overlay.png"
 }

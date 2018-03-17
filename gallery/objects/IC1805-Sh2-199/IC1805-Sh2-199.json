@@ -1,7 +1,7 @@
 {
   "name": "IC1805-Sh2-199",
   "alias": "Heart & Soul Nebulae",
-  "aspect": 1.641,
+  "aspect": 1.666,
   "ra": "02h 33m 22s",
   "dec": "+61° 26′ 36″",
   "positionangle": "0.0",
@@ -17,5 +17,29 @@
   "pixelscale": "3.50",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Heart_Nebula",
-  "description": "This frame spans almost 7° of sky and encompasses both the Heart Nebula (IC 1805) and the Soul Nebula (Sh2-199). The entire expanse of the Milky Way from Cygnus, through Cepheus, Cassiopeia, Perseus, and into Auriga is filled with seemingly countless bright and dark nebulae. The Heart and Soul are amongst the most dramatic examples. This image is composed primarily of individual channels taken through narrow band filters which isolate the specific colors of ionized hydrogen (red), oxygen (green), and sulfur (also red). The stars are rendered in their natural full-spectrum colors."
+  "description": "This frame spans almost 7° of sky and encompasses both the Heart Nebula (IC 1805) and the Soul Nebula (Sh2-199). The entire expanse of the Milky Way from Cygnus, through Cepheus, Cassiopeia, Perseus, and into Auriga is filled with seemingly countless bright and dark nebulae. The Heart and Soul are amongst the most dramatic examples. This image is composed primarily of individual channels taken through narrow band filters which isolate the specific colors of ionized hydrogen (red), oxygen (green), and sulfur (also red). Because these bands don't correspond to the red, green, and blue colors usually used to mix natural colors, we a free to mix them however we please. Use the 'star' tools on the left to explore several different mixes.",
+  "negative": "IC1805-Sh2-199-negative.jpg",
+  "overlay": "IC1805-Sh2-199-overlay.png",
+  "special": [
+    {
+      "name": "NearNatural",
+      "image": "IC1805-Sh2-199-Natural-2000.jpg",
+      "description": "Natural Palette"
+    },
+    {
+      "name": "Ultraviolet",
+      "image": "IC1805-Sh2-199-Ultraviolet-2000.jpg",
+      "description": "'Ultraviolet' Palette"
+    },
+    {
+      "name": "Hubble",
+      "image": "IC1805-Sh2-199-Hubble-2000.jpg",
+      "description": "Hubble Palette"
+    },
+    {
+      "name": "Natural",
+      "image": "IC1805-Sh2-199-Original-2000.jpg",
+      "description": "Spectral Matching"
+    }
+	]
 }

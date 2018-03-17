@@ -1,0 +1,30 @@
+{
+  "name": "NGC 752 / Abell 262",
+  "alias": "",
+  "aspect": 1.0,
+  "ra": "01h 57m 55s",
+  "dec": "+37° 51′ 57″",
+  "positionangle": "342",
+  "distance": "1300 light years",
+  "constellation": "Andromeda",
+  "season": "Autumn",
+  "date": "November 22, 2017",
+  "seeing": "7.75″ (average)",
+  "instrument": "Takahashi FSQ-106",
+  "camera": "Apogee U16M",
+  "mount": "Paramount ME",
+  "exposure": "RGB: 120,120,140",
+  "pixelscale": "3.50",
+  "location": "Boulder, Colorado",
+  "info": "https://en.wikipedia.org/wiki/NGC_752",
+  "description": "Just stars? At first glance, there doesn't appear to be a lot going on here. A typical field of stars, perhaps just off the plane of the Milky Way galaxy. Look closer - just to left and above center is the ancient open star cluster NGC 752. Thought to be about 1.1 billion years old, this cluster has been the subject of extensive research, owing to its proximity and its potential to reveal details of the evolution of stars and clusters. Look closer still - to the right below center is the remote galaxy cluster Abell 262. Use the close-up view accessible from the toolbar to the left. If you take your time, you can discover dozens of galaxies here, all located at the mind-warping distance of about 200 million light years!",
+  "negative": "N752-negative.jpg",
+  "overlay": "N752-overlay.png",  
+  "special": [
+    {
+      "name": "Abell262-zoom",
+      "image": "Abell262-zoom.jpg",
+      "description": "Abell 262 Closeup"
+    }
+  ]
+}

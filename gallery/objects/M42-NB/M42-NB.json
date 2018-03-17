@@ -12,17 +12,14 @@
   "instrument": "TEC 140",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
-  "exposure": "LRGBHOS: 140,40,40,40,105,180,240",
+  "exposure": "RGBHOS: 40,40,40,105,180,240",
   "pixelscale": "1.89",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Orion_Nebula",
-  "description": "The famous Orion Nebula is one of the brightest nebulae in the sky, readily visible to the naked eye as a 'fuzzy star' in Orion's sword. It is spectacular in convention <a href='object.html?M42'>full spectrum</a> images, but is so bright that it also reveals interesting structure in multiple isolated wavelengths. This image presents different combinations of of light emitted by hydrogen, oxygen, and sulfur. Use the 'specials' tool to see each combination, as well as each channel in isolation.",
+  "description": "The famous Orion Nebula is one of the brightest nebulae in the sky, readily visible to the naked eye as a 'fuzzy star' in Orion's sword. It is spectacular in conventional <a href='object.html?M42'>full spectrum</a> images, but is so bright that it also reveals interesting structure in multiple isolated wavelengths. This image presents different combinations of light emitted by hydrogen, oxygen, and sulfur. Use the 'star' icons on the left to see each channel in isolation.",
+  "negative": "M42-NB-negative.jpg",
+  "overlay": "M42-NB-overlay.png",
   "special": [
-    {
-      "name": "Hubble",
-      "image": "M42-NRGB-Hubble.jpg",
-      "description": "Narrow Band Rendered in Hubble Palette"
-    },
     {
       "name": "Hydrogen",
       "image": "M42-Ha.jpg",

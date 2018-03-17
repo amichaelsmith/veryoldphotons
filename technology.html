@@ -1,9 +1,9 @@
 <!doctype html>
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">    
 <head>
   <meta charset="utf-8">
   <title>veryoldphotons</title>
-  <script src="https://use.fontawesome.com/791bbd880f.js"></script>
   <link href="styles/reset.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
@@ -11,29 +11,32 @@
   <link href="styles/veryoldphotons.css" rel="stylesheet" type="text/css"></head>
 </head>
 <body class="body-background">
-  <div class="banner">
-    <img src="images/logo.png" width="900" height="64" alt="logo">
+  <div class ="content-frame">
+    <div class="banner">
+      <img class="auto-size-img" src="images/logo.png" alt="logo">
+    </div>
+    <div class="toolbar">
+      <a href="index.html"><button id="home" class="tool" title="Home"><span class="fa fa-home fa-2x"></span></button></a>
+      <a href="galleries.html"><button id="gallery" class="tool" title="Image Gallery"><span class="fa fa-photo fa-2x"></span></button></a>
+      <a href="about.html"><button id="about" class="tool" title="About"><span class="fa fa-question fa-2x"></span></button></a>
+      <a href="dashboard.html"><button id="dashboard" class="tool" title="Dashboard"><span class="fa fa-tachometer fa-2x"></span></button></a>
+    </div>
+    <div class="content">
+      <h2>Location</h2>
+      <p class="narrative-text">I am fortunate to have spot in the corner of our backyard suitable for observing and astrophotography. Strictly speaking, we live within the city limits of Boulder, Colorado - but on the northwest corner of town. The view to southeast is essentially unusable due to the light dome of the Denver metropolitan area, but the view to the west and north is about 5 on the Bortle scale. Visually, I cannot do much more than observe planets, double stars, and bright star clusters. However, with modern imaging equipment and processing techniques, it is possible to produce the images you see on this site.</p>
+      <p class="narrative-text"><br />Click <a href="dashboard.html">here</a> for a dashboard summarizing current conditions at the observatory site.</p>
+      <br>
+      <img class="tall-image" src="images/dome.jpg" alt="dome">
+      <!--<hr class="content-hr">-->
+      <!--<h1>Technology</h1>-->
+      <!--<h2>Hardware</h2>-->
+      <!--<h2>Software</h2>-->
+      <!--<h2>Workflow</h2>-->
+    </div>
+    <div class="footer">
+      <span class="footer-text">Copyright &copy; 2017 Michael Smith. All rights reserved. Reuse of content without explicit permission is strictly prohibited.</span>
+    </div>
   </div>
-  <div class="toolbar">
-    <a href="index.html"><button id="home" class="tool" title="Home"><span class="fa fa-home fa-lg"></span></button></a>
-    <a href="galleries.html"><button id="gallery" class="tool" title="Image Gallery"><span class="fa fa-photo fa-lg"></span></button></a>
-    <a href="about.html"><button id="about" class="tool" title="About"><span class="fa fa-question fa-lg"></span></button></a>
-    <a href="dashboard.html"><button id="dashboard" class="tool" title="Dashboard"><span class="fa fa-tachometer fa-lg"></span></button></a>
-  </div>
-  <div class="content">
-    <h1>Location</h1>
-    <p class="narrative-text">I am fortunate to have spot in the corner of our backyard suitable for observing and astrophotography. Strictly speaking, we live within the city limits of Boulder, Colorado - but on the northwest corner of town. The view to southeast is essentially unusable due to the light dome of the Denver metropolitan area, but the view to the west and north is about 5 on the Bortle scale. Visually, I cannot do much more than observe planets, double stars, and bright star clusters. However, with modern imaging equipment and processing techniques, it is possible to produce the images you see on this site.</p>
-    <p class="narrative-text">Click <a href="dashboard.html">here</a> for a dashboard summarizing current conditions at the observatory site.</p>
-    <br>
-    <img src="images/dome.jpg" width="533" alt="dome">
-    <!--<hr class="content-hr">-->
-    <!--<h1>Technology</h1>-->
-    <!--<h2>Hardware</h2>-->
-    <!--<h2>Software</h2>-->
-    <!--<h2>Workflow</h2>-->
-  </div>
-  <div class="footer">
-    <span class="footer-text">Copyright &copy; 2017 Michael Smith. All rights reserved. Reuse of content without explicit permission is strictly prohibited.</span>
-  </div>
+  <script src="https://use.fontawesome.com/791bbd880f.js"></script>
 </body>
 </html>

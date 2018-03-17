@@ -1,9 +1,9 @@
 <!doctype html>
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">  
 <head>
   <meta charset="utf-8">
   <title>veryoldphotons</title>
-  <script src="https://use.fontawesome.com/791bbd880f.js"></script>
   <link href="styles/reset.css" rel="stylesheet" type="text/css">
   <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
@@ -13,28 +13,30 @@
 <body>
   <div class="main-image-frame">
     <img class="main-image" id="image" src="">
-  </div>
-  <div class="banner">
-    <img class="auto-size-img" src="images/logo.png" alt="logo">
-  </div>
-  <div class="toolbar">
-    <a href="galleries.html"><button id="gallery" class="tool" title="Image Gallery"><span class="fa fa-photo fa-lg"></span></button></a>
-    <a href="technology.html"><button id="tech" class="tool" title="Learn About the Technology"><span class="fa fa-cogs fa-lg"></span></button></a>
-    <a href="about.html"><button id="about" class="tool" title="About"><span class="fa fa-question fa-lg"></span></button></a>
-  </div>
-  <div class="footer">
-    <span class="footer-text">Copyright &copy; 2017 Michael Smith. All rights reserved. Reuse of content without explicit permission is strictly prohibited.</span>
-  </div>
-  <div class="content">
-    <h1>Welcome</h1>
-    <p class="narrative-text">Thanks for visiting!<br /><br />Here you will find dozens of images of galaxies, nebulae, star clusters, comets, eclipses - all made by me from (very old) photons collected in my own suburban backyard.<br /><br />As you browse, use the toolbar - always located on the lefthand edge of the page - to navigate the site.<br /><br />I invite you to return frequently - I have an extensive backlog of new images to post in the coming months. A gallery of the newest images appears below.<br /><br /></p>
-    <h2>Click anywhere on this page to go the image gallery.</h2>
-    <div class="content-gallery">
-      <table id="grid">
-      </table>
+  </div>  
+  <div class ="content-frame">
+    <div class="banner">
+      <img class="auto-size-img" src="images/logo.png" alt="logo">
     </div>
-  </div>
+      <div class="toolbar">
+      <a href="galleries.html"><button id="gallery" class="tool" title="Image Gallery"><span class="fa fa-photo fa-2x"></span></button></a>
+      <!-- <a href="technology.html"><button id="tech" class="tool" title="Learn About the Technology"><span class="fa fa-cogs fa-2x"></span></button></a> -->
+      <a href="about.html"><button id="about" class="tool" title="About"><span class="fa fa-question fa-2x"></span></button></a>
+    </div>
+    <div class="content-text">
+      <p class="narrative-text">veryoldphotons presents images of galaxies, nebulae, star clusters, comets, eclipses - all made by me from ancient starlight collected in my own suburban backyard.<br /><br />You can enjoy your visit by just browsing the images. If you really want to geek out, use the toolbar on the lefthand edge of the display to explore each object in detail.<br /><br />I invite you to return frequently - I have an extensive backlog of new images to post in the coming months. A gallery of the newest images appears below.<br /><br /></p>
+      <h3>Click anywhere to go the main image gallery</h3>
+      <div class="content-gallery">
+        <table id="grid">
+        </table>
+      </div>
+    </div>
+    <div class="footer">
+        <span class="footer-text">Copyright &copy; 2017 Michael Smith. All rights reserved. Reuse of content without explicit permission is strictly prohibited.</span>
+    </div>
+  </div>    
   <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src="https://use.fontawesome.com/791bbd880f.js"></script>
   <script src="scripts/utilities.js"></script>
   <script src="scripts/landing.js"></script>
   <script src="scripts/gallery.js"></script>

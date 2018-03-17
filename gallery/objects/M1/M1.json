@@ -8,37 +8,15 @@
   "constellation": "Taurus",
   "season": "Winter",
   "date": "January 26, 2015",
-  "seeing": "3.0″ (average)",
+  "seeing": "3.8″ (average)",
   "instrument": "Deep Sky Instruments RC14C",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
-  "exposure": "LRGBHOS: 180, 80, 80, 80, 180, 180, 195",
+  "exposure": "LRGB: 180, 80, 80, 80",
   "pixelscale": "0.73",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Crab_Nebula",
-  "description": "M1 is the dramatic remnant of a supernova that exploded in 1054 AD. The supernova was recorded by Chinese observers, who described it as visible in broad daylight at its peak. The nebula continues to expand out into space at a rate that can be detected in images taken only a few decades apart. At the heart of the nebula lies the Crab Pulsar, the spinning  neutron star remant of the original star. The pulsar spins at the breathtaking rate of 30 times per second, blasting high energy radiation into space like a celestial lighthouse. Due to its brightness and abundance of fundamental elements, the Crab Nebula reveals interesting structure in multiple isolated wavelengths. You can explore this effect by browsing the Hydrogen, Oxygen, and Sulfur images in the 'Display' selector above.",
+  "description": "M1 is the dramatic remnant of a supernova that exploded in 1054 AD. The supernova was recorded by Chinese observers, who described it as visible in broad daylight at its peak. The nebula continues to expand out into space at a rate that can be detected in images taken only a few decades apart. At the heart of the nebula lies the Crab Pulsar, the spinning  neutron star remant of the original star. The pulsar spins at the breathtaking rate of 30 times per second, blasting high energy radiation into space like a celestial lighthouse. Due to its brightness and abundance of fundamental elements, the Crab Nebula reveals interesting structure in multiple isolated wavelengths, which can be seen clearly in the <a href='object.html?M1-NB'>narrowband image</a> of the same object.",
   "negative": "M1-negative.jpg",
-  "closeup": "M1-zoom.jpg",
-  "special": [
-    {
-      "name": "Broadband",
-      "image": "M1-LRGB.jpg",
-      "description": "Broadband LRGB image, emphasizing synchrotron radiation"
-    },
-    {
-      "name": "Hydrogen",
-      "image": "M1-Ha.jpg",
-      "description": "Hydrogen-alpha (656nm) isolated (Negative)"
-    },  
-    {
-      "name": "Oxygen",
-      "image": "M1-O3.jpg",
-      "description": "Oxygen III (501nm) isolated (Negative)"
-    },  	
-    {
-      "name": "Sulfur",
-      "image": "M1-S2.jpg",
-      "description": "Sulfur II (672nm) isolated (Negative)"
-    }
-	]
+  "overlay": "M1-overlay.png"
 }

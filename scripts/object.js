@@ -5,21 +5,50 @@ var galleryManifest;
 var prevObject;
 var nextObject;
 var initialImage = '';
+var isMobile;
+var frameDims;
+var details;
+var isZoomed = false;
+var labels = false;
+var isLabelled = false;
 
 // Image details json loaded.
 xhr.onload = function(){
   if (xhr.status === 200) {
-    var details = JSON.parse(xhr.responseText);
+    details = JSON.parse(xhr.responseText);
     loadOptionalImages(details);
     loadImageDetails(details);
     imageInfo.aspect = details.aspect;
     $('.main-image-frame').show();
     extentsMode = "window";
     sizeFrame();
+
+    // Hide labelss at start
+    $('.labels').hide();
+    var $moon = $('.moon');
+    $moon.hide();
+
+    resizeMoonImage();
+
     // Load the proper image
     var $img = $('#image');
     $img.attr('src', imageInfo[initialImage]);
   }
+}
+
+// Resize moon overlay, based on pixel size ratios
+function resizeMoonImage(){
+    var $moon = $('.moon');
+    var displayPixelScale = (details.pixelscale * 2.0) * 2000 / frameDims[0];
+    var pixelratio = 3.03 / displayPixelScale;
+    var width = Math.round(720 * pixelratio);
+    var height = Math.round(720 * pixelratio);
+    var left = frameDims[0] / 2 - width / 2;
+    var top = frameDims[1] / 2 - height / 2;
+    $moon.css({top: top.toString()+"px"});
+    $moon.css({left: left.toString()+"px"});
+    $moon.height(height);
+    $moon.width(width);
 }
 
 // Prepare table of image details.
@@ -30,10 +59,15 @@ function loadImageDetails(details) {
   }
 
   var $caption = $('#image-caption');
-  $caption.append(details.name + alias);
+  if (isMobile) {
+    $caption.append(details.name);
+  } else {
+    $caption.append(details.name + alias);
+  }
 
   var $description = $('#image-description');
-  $description.append(details.description);
+  var extDescription = details.description + '</br></br><a href=' + details.info + '>More information...</a></br></br>';
+  $description.append(extDescription);
 
   var $grid = $('#table-details');
   addImageDetailsRow($grid, 'Season', details.season);
@@ -48,7 +82,6 @@ function loadImageDetails(details) {
   addImageDetailsRow($grid, 'Mount', details.mount);
   addImageDetailsRow($grid, 'Exposure', details.exposure);
   addImageDetailsRow($grid, 'Location', details.location);
-  addImageDetailsRowLink('Information', details.info);
 }
 
 // For optional images, insure that the path is fully formed.
@@ -59,6 +92,16 @@ function loadOptionalImages(descriptor) {
     imageInfo.negative = "gallery/objects/" + imageInfo.name + "/" + negative;
   } else {
     $('#negative').hide();
+  }
+
+  if (descriptor.overlay !== undefined) {
+    imageInfo.overlay = "gallery/objects/" + imageInfo.name + "/" + descriptor.overlay;
+    labels = true;
+    $('#labels').attr('src', imageInfo.overlay);
+  } else {
+    labels = false;
+    $('#show-labels').hide();
+    $('.labels').hide();
   }
 
   if (descriptor.closeup !== undefined) {
@@ -81,6 +124,7 @@ function loadOptionalImages(descriptor) {
       $(strElem).insertAfter('#zoom');
       var specialName = '#' + special.name;
       $(specialName).on('click', {specialImage: special.image}, function(event) {
+        setZoomState(false);
         $('#image').attr('src', event.data.specialImage);
       });
     }
@@ -96,12 +140,6 @@ function addImageDetailsRow($grid, name, value){
   $row.append('<td class="detail-value">' + value + '</td>');
 }
 
-// Utility to add the link to external reference
-function addImageDetailsRowLink(name, value){
-  var $details = $('#more-details');
-  $details.attr('href', value);
-}
-
 $('#info').click(function() {
   var $details = $('.image-details');
   var bVisible = $details.is(':visible');
@@ -114,23 +152,48 @@ $('#info').click(function() {
 
 $('#fit').click(function() {
   extentsMode = "image"
-  sizeFrameToImageExtents(imageInfo.aspect);
+  frameDims = sizeFrameToImageExtents(imageInfo.aspect);
+  resizeMoonImage();  
 });
 
 $('#max').click(function() {
   extentsMode = "window"
-  sizeFrameToWindowExtents(imageInfo.aspect);
+  frameDims = sizeFrameToWindowExtents(imageInfo.aspect);
+  resizeMoonImage();  
 });
 
 $('#main').click(function() {
+  setZoomState(false);
   $('#image').attr('src', imageInfo["extents"]);
 });
 
 $('#negative').click(function() {
+  setZoomState(false);
   $('#image').attr('src', imageInfo["negative"]);
 });
 
+$('#show-labels').click(function() {
+  var $labels = $('.labels');
+  if ($labels.is(':visible')) {
+    $labels.hide();
+  } else {
+    $labels.show();
+  }
+});
+
+$('#moon-comparison').click(function() {
+  setZoomState(false);
+  var $moon = $('.moon');
+  var bVisible = $moon.is(':visible');
+  if (bVisible) {
+    $moon.hide();
+  } else {
+    $moon.show();
+  }
+});
+
 $('#zoom').click(function() {
+  setZoomState(true);
   $('#image').attr('src', imageInfo["zoom"]);
 });
 
@@ -144,18 +207,37 @@ $('#next').click(function() {
 
 $(window).on('resize', function(){
   sizeFrame();
+  resizeMoonImage();
 });
+
+function setZoomState(state) {
+  isZoomed = state;
+  if (isZoomed) {
+    $('.labels').hide();
+    $('.moon').hide();
+    $('#show-labels').hide();
+    $('#moon-comparison').hide();
+  } else {
+    $('#moon-comparison').show();
+    if (labels) {
+      $('#show-labels').show();
+    }
+  }
+}
 
 function sizeFrame() {
   if (extentsMode === "image") {
-    sizeFrameToImageExtents(imageInfo.aspect);
+    frameDims = sizeFrameToImageExtents(imageInfo.aspect);
   } else {
-    sizeFrameToWindowExtents(imageInfo.aspect);
+    frameDims = sizeFrameToWindowExtents(imageInfo.aspect);
   }
 }
 
 // Entry point to set up page on load.
 function loadObject(objectName) {
+  // Finally, detect if mobile
+  isMobile = window.matchMedia("only screen and (max-width: 760px)").matches;
+
   galleryManifest = JSON.parse(sessionStorage.getItem('galleryManifest'));
   // Previous - Next navigation is only supported within a gallery.
   // There are other ways to navigate to this page, in which case the galleryManifest

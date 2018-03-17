@@ -17,5 +17,7 @@
   "pixelscale": "1.07",
   "location": "Boulder, Colorado",
   "info": "https://en.wikipedia.org/wiki/Wild_Duck_Cluster",
-  "description": "M11 is another early (1681) discovery of the German astronomer Gottfried Kirch. M11 is an open cluster, but an unusually rich and compact one, consisting of more than 2900 stars. It is positioned in front of the rich background of stars of the Milky Way. The cluster is said to resemble a flying flock of ducks, hence its nickname. Though I have viewed M11 many times through the eyepiece, matching the view with the moniker requires more imagination than I can muster!"
+  "description": "M11 is another early (1681) discovery of the German astronomer Gottfried Kirch. M11 is an open cluster, but an unusually rich and compact one, consisting of more than 2900 stars. It is positioned in front of the rich background of stars of the Milky Way. The cluster is said to resemble a flying flock of ducks, hence its nickname. Though I have viewed M11 many times through the eyepiece, matching the view with the moniker requires more imagination than I can muster!",
+  "negative": "M11-negative.jpg",
+  "overlay": "M11-overlay.png"  
 }

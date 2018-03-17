@@ -41,7 +41,7 @@ xhr.onload = function() {
       var $cell = $row.children(':last');
       $cell.append('<a href="object.html?' + name + '"></a>');
       var $anchor = $cell.children('a');
-      $anchor.append('<img src="' + manifest.image[index].thumbnail +
+      $anchor.append('<img class="thumbnail-image" src="' + manifest.image[index].thumbnail +
         '" width="200" height="200" alt="' + name + '" index="' + index +'">');
       $cell.append('<p class="thumbnail-caption">' + manifest.image[index].displayName + '</p>');
     }

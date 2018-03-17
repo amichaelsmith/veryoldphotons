@@ -3,12 +3,12 @@
   "alias": "",
   "ra": "12h 36m 20.8s",
   "dec": "+25° 59′ 16″",
-  "positionangle": "0.0",
+  "positionangle": "358",
   "distance": "42,700,000 light years",
   "constellation": "Coma Berenices",
   "season": "Spring",
   "date": "April 6, 2011",
-  "seeing": "3.0″ (average)",
+  "seeing": "4.5″ (poor)",
   "instrument": "Deep Sky Instruments RC14C",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
@@ -18,5 +18,5 @@
   "info": "https://en.wikipedia.org/wiki/NGC_4565",
   "description": "NGC 4565 is a classic edge-on spiral galaxy, and like all spirals its overall shape is that of a disk. Our vantage point happens to lie in the same plane as that disk, and so NGC 4564 appears to us as a slender needle. Notice the prominent central bulge, consisting of old yellowish stars. Contrast this with the tapering disk, which shows a somewhat bluish color representative of younger stars. Finally, note the irregular black band of dust bisecting the needle - these are giant molecular clouds obscuring the background stars of the disk. Compare this view to that our own Milky Way Galaxy late on a summer night, and you will note that all of these same features are visible to the naked eye, at a scale that spans the entire sky. Indeed, our view of the Milky Way is also edge-on, because we live in the disk of our galaxy.",
   "negative": "N4565-negative.jpg",
-  "closeup": "N4565-zoom.jpg"
+  "overlay": "N4565-overlay.png"
 }

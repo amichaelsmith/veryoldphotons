@@ -19,11 +19,5 @@
   "info": "https://en.wikipedia.org/wiki/NGC_7635",
   "description": "This image captures a portion of the Milky Way passing through Cassiopeia, rich in star clusters and extended nebulosity. A lower right, a small but distinctive bubble appears with the hydrogen gas cloud (NGC 7635). At the center of the bubble is a particularly hot star, whose radiation both pushes the gas outward and causes it to glow. At upper right the open cluster M52 emerges as a grouping of bluish stars against the less dense backdrop of the Milky Way. M52 is approximately twice as close as NGC 7635, about 5000 light years distant. M52 is very young as star clusters go, estimated to be about 35,000,000 years old.",
   "negative": "M52-Bubble-negative.jpg",
-  "special": [
-    {
-      "name": "Bubble Nebula Closeup",
-      "image": "M52-Bubble-zoom-bubble.jpg",
-      "description": "NGC 7635 (Bubble Nebula)"
-    }
-	]
+  "overlay": "M52-Bubble-overlay.png"  
 }

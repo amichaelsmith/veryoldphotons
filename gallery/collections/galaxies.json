@@ -132,6 +132,14 @@
       "type": ["galaxy:spiral","galaxy:group"],
       "season": "spring",
       "pubDate": "2017-07-01T00:00:00Z"
-    }
+    }, 
+    {
+      "name": "N752",
+      "displayName": "Abell 262",
+      "aspect": 1.0,
+      "type": ["galaxy:group"],
+      "season": "autumn",
+      "pubDate": "2017-12-20T00:00:00Z"
+    }    
   ]
 }

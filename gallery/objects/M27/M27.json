@@ -3,12 +3,12 @@
   "alias": "Dumbbell Nebula",
   "ra": "19h 59m 36s",
   "dec": "+22° 43′ 16″",
-  "positionangle": "0.0",
+  "positionangle": "333",
   "distance": "1360 light years",
   "constellation": "Vulpecula",
   "season": "Summer",
   "date": "September 3, 2011",
-  "seeing": "3.0″ (average)",
+  "seeing": "3.2″ (average)",
   "instrument": "Deep Sky Instruments RC14C",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
@@ -18,5 +18,5 @@
   "info": "https://en.wikipedia.org/wiki/Dumbbell_Nebula",
   "description": "The Dumbbell Nebula gets its name from its appearance in amateur telescopes, though even there it appears more like an apple core than a dumbbell. M27 is an easy object to observe visually, owing to its relative poximity, large size, and inherent brightness. This planetary nebula is a remnant of a star that expired approximately 15,000 years ago. Instead of exploding as a dramatic supernova, this star expelled its outer layers and contracted as a white dwarf. The shell of gas will continue to expand and dissipate until it blends into the interstellar medium, providing raw material for future generations of stars.",
   "negative": "M27-negative.jpg",
-  "closeup": "M27-zoom.jpg"
+  "overlay": "M27-overlay.png"
 }

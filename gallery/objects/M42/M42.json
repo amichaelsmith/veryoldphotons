@@ -3,12 +3,12 @@
   "alias": "Orion Nebula",
   "ra": "05h 35m 17.3s",
   "dec": "−05° 23′ 28″",
-  "positionangle": "0.0",
+  "positionangle": "3",
   "distance": "1344 light years",
   "constellation": "Orion",
   "season": "Winter",
   "date": "January 19, 2009",
-  "seeing": "3.0″ (average)",
+  "seeing": "6.6″ (average)",
   "instrument": "TEC 140",
   "camera": "Apogee U16M",
   "mount": "Paramount ME",
@@ -18,5 +18,5 @@
   "info": "https://en.wikipedia.org/wiki/Orion_Nebula",
   "description": "The famous Orion Nebula is one of the brightest nebulae in the sky, readily visible to the naked eye as a 'fuzzy star' in Orion's sword. Like many such emission nebulae, M42 is the sight of prodigious star creation. Particularly notable is the Trapezium multiple star system, just visible at the brightness part of the nebula near the center of the image. M42 was the very first deep sky object to photographed, by Henry Draper in 1880, and can thus be said to have given birth to astrophotography as well.",
   "negative": "M42-negative.jpg",
-  "closeup": "M42-zoom.jpg"
+  "overlay": "M42-overlay.png"
 }

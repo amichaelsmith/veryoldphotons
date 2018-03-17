@@ -26,7 +26,8 @@ function sizeFrameToImageExtents(imgAspect) {
   var top = frameHeight-$imgFooter.height();
   $imgFooter.css({top: top.toString()+"px"});
   $imgFooter.css({left: "0px"});
-};
+  return [frameWidth, frameHeight, 0, 0];
+}
 
 // Method to resize main-image-frame to make full use of
 // the entire window at full bleed. This will usually result
@@ -64,4 +65,5 @@ function sizeFrameToWindowExtents(imgAspect) {
   $imgFooter.css({top: top.toString()+"px"});
   var left = winWidth-$imgFooter.width()-frameLeft;
   $imgFooter.css({left: left.toString()+"px"});
+  return [frameWidth, frameHeight, frameLeft, frameTop];
 }
